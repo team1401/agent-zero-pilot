@@ -1,0 +1,41 @@
+DOCKER_ENABLED=yes
+DOCKER_IMAGE_FILE=/mnt/fastssd/system/docker/docker.img
+DOCKER_IMAGE_SIZE=30
+DOCKER_APP_CONFIG_PATH=/mnt/user/appdata/
+qbittorrent|lscr.io/linuxserver/qbittorrent|Up 2 hours
+syncthing|lscr.io/linuxserver/syncthing|Up 11 hours
+prowlarr|lscr.io/linuxserver/prowlarr|Up 11 hours
+proton-vpn|qmcgaw/gluetun:latest|Up 11 hours (healthy)
+plex|lscr.io/linuxserver/plex|Up 11 hours
+OpenClaw|ghcr.io/openclaw/openclaw:latest|Up 11 hours (healthy)
+Tunarr|ghcr.io/chrisbenincasa/tunarr:latest|Up 25 hours
+halogen-flash|ghcr.io/peonist-ai/halogen-flash-server|Up 26 hours
+reframer|python:3.12-slim|Exited (137) 3 days ago
+sonarr|50297d3fca60|Up 2 days
+wd-backup-web|wd-backup-web|Exited (0) 17 hours ago
+immich-server|ghcr.io/immich-app/immich-server:v3.3.1|Up 2 days (healthy)
+immich-machine-learning|ghcr.io/immich-app/immich-machine-learning:v3.3.1|Up 2 days (healthy)
+immich-postgres|ghcr.io/immich-app/postgres:14-vectorchord0.4.3-pgvectors0.2.0|Up 2 days (healthy)
+radarr|d13ecd01819f|Up 2 days
+big-bear-seerr|ghcr.io/seerr-team/seerr:latest|Up 2 days
+immich-redis|valkey/valkey:9|Up 2 days
+lscr.io/linuxserver/prowlarr:latest|0a339d838e29|187MB
+lscr.io/linuxserver/plex:latest|6d4ea304e00e|413MB
+qmcgaw/gluetun:latest|cbd6e9849892|54.9MB
+ghcr.io/openclaw/openclaw:latest|c48a60e8c64f|1.94GB
+lscr.io/linuxserver/syncthing:latest|8ec67f1ca09c|59.7MB
+ghcr.io/chrisbenincasa/tunarr:latest|97fb1eb40e02|2.53GB
+lscr.io/linuxserver/ffmpeg:latest|94acee37d1ec|794MB
+nousresearch/hermes-agent:stable|02e7aa0e8412|3.19GB
+wd-backup-web:latest|ad90ff941312|145MB
+python:3-slim|01afbbf474ac|122MB
+lscr.io/linuxserver/sonarr:latest|50297d3fca60|203MB
+lscr.io/linuxserver/radarr:latest|d13ecd01819f|211MB
+lscr.io/linuxserver/qbittorrent:latest|3cf724864a09|226MB
+ghcr.io/immich-app/immich-server:v3.3.1|33c796024bf0|1.69GB
+ghcr.io/immich-app/immich-machine-learning:v3.3.1|5a95c7cb0199|746MB
+ghcr.io/peonist-ai/halogen-flash-server:0.17.2|22c955d54a35|3.58GB
+python:3.12-slim|df18428df8a0|119MB
+ghcr.io/seerr-team/seerr:latest|c1673c6c7835|886MB
+valkey/valkey:9|726dea3590a8|115MB
+ghcr.io/immich-app/postgres:14-vectorchord0.4.3-pgvectors0.2.0|178719aeb38d|756MB

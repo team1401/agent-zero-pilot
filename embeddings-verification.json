@@ -1,0 +1,12 @@
+[
+  {
+    "instance": 1,
+    "exit": 0,
+    "result": "{\"dimensions\": 384, \"finite\": true, \"device\": \"cpu\"}\n"
+  },
+  {
+    "instance": 2,
+    "exit": 0,
+    "result": "{\"dimensions\": 384, \"finite\": true, \"device\": \"cpu\"}\n"
+  }
+]

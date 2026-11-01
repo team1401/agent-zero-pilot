@@ -1,0 +1,192 @@
+[
+  {
+    "name": "agent-zero-2",
+    "id": "af5ecbc2ab8e87b8525a4745c7ae49a8bd97e0fd38c27fada9e00c5df9f4f308",
+    "status": "running",
+    "started_at": "2026-10-21T15:37:42.051795076Z",
+    "image": "sha256:46e4e5fd59568521ba64de19bb8e866dca7df57d98545cfb272777af6e915fae",
+    "ports": {
+      "80/tcp": [
+        {
+          "HostIp": "100.108.186.69",
+          "HostPort": "50081"
+        }
+      ]
+    },
+    "privileged": false,
+    "network": "bridge",
+    "memory": 8589934592,
+    "cpus": 4000000000,
+    "mounts": [
+      {
+        "Type": "bind",
+        "Source": "/mnt/fastssd/AppData/agent-zero-2/usr",
+        "Destination": "/a0/usr",
+        "Mode": "rw",
+        "RW": true,
+        "Propagation": "rprivate"
+      }
+    ],
+    "labels": {
+      "io.buildah.version": "1.42.1",
+      "net.unraid.docker.icon": "https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/agent-zero.png",
+      "net.unraid.docker.managed": "dockerman",
+      "net.unraid.docker.webui": "http://100.108.186.69:50081",
+      "org.opencontainers.image.authors": "Kali Developers <devel@kali.org>",
+      "org.opencontainers.image.created": "2026-02-01T04:04:48Z",
+      "org.opencontainers.image.description": "Official Kali Linux container image for kali-rolling",
+      "org.opencontainers.image.revision": "bc19fe13",
+      "org.opencontainers.image.source": "https://gitlab.com/kalilinux/build-scripts/kali-docker",
+      "org.opencontainers.image.title": "Kali Linux (kali-rolling branch)",
+      "org.opencontainers.image.url": "https://www.kali.org/",
+      "org.opencontainers.image.vendor": "OffSec",
+      "org.opencontainers.image.version": "2026.02.01"
+    }
+  },
+  {
+    "name": "agent-zero-1",
+    "id": "335a59a3323278589b9d878a88602f4f4fab79f291e98806bb71ce0b22847020",
+    "status": "running",
+    "started_at": "2026-10-21T15:37:41.779432292Z",
+    "image": "sha256:46e4e5fd59568521ba64de19bb8e866dca7df57d98545cfb272777af6e915fae",
+    "ports": {
+      "80/tcp": [
+        {
+          "HostIp": "100.108.186.69",
+          "HostPort": "50080"
+        }
+      ]
+    },
+    "privileged": false,
+    "network": "bridge",
+    "memory": 8589934592,
+    "cpus": 4000000000,
+    "mounts": [
+      {
+        "Type": "bind",
+        "Source": "/mnt/fastssd/AppData/agent-zero-1/usr",
+        "Destination": "/a0/usr",
+        "Mode": "rw",
+        "RW": true,
+        "Propagation": "rprivate"
+      }
+    ],
+    "labels": {
+      "io.buildah.version": "1.42.1",
+      "net.unraid.docker.icon": "https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/agent-zero.png",
+      "net.unraid.docker.managed": "dockerman",
+      "net.unraid.docker.webui": "http://100.108.186.69:50080",
+      "org.opencontainers.image.authors": "Kali Developers <devel@kali.org>",
+      "org.opencontainers.image.created": "2026-02-01T04:04:48Z",
+      "org.opencontainers.image.description": "Official Kali Linux container image for kali-rolling",
+      "org.opencontainers.image.revision": "bc19fe13",
+      "org.opencontainers.image.source": "https://gitlab.com/kalilinux/build-scripts/kali-docker",
+      "org.opencontainers.image.title": "Kali Linux (kali-rolling branch)",
+      "org.opencontainers.image.url": "https://www.kali.org/",
+      "org.opencontainers.image.vendor": "OffSec",
+      "org.opencontainers.image.version": "2026.02.01"
+    }
+  },
+  {
+    "name": "qbittorrent",
+    "id": "6a7d5ad0e00e5bc878301f918bb32eb97c2c935d17e33544b4b71a2dddec7e16",
+    "status": "running",
+    "started_at": "2026-10-21T15:13:34.238440759Z"
+  },
+  {
+    "name": "syncthing",
+    "id": "cae2d000fd3e6fbd5fdff61a08b68fdc5d8aa1604d6239c3e7b7dae9c84d3bd8",
+    "status": "running",
+    "started_at": "2026-10-21T15:13:34.903212494Z"
+  },
+  {
+    "name": "prowlarr",
+    "id": "38f166d929f3fbe3bf41bb3367206aff6c38454f25e011d6273dce816e3a30bf",
+    "status": "running",
+    "started_at": "2026-10-21T15:13:33.978439987Z"
+  },
+  {
+    "name": "proton-vpn",
+    "id": "a489a51def8d16a13741e72711201b4b68179626936c2b654a2cd66f6001822f",
+    "status": "running",
+    "started_at": "2026-10-21T15:13:18.704247478Z"
+  },
+  {
+    "name": "plex",
+    "id": "7a16c0ae8336d86cd12ee1fbe38e66055ef92579e47e4d35f35a033b6caa64e2",
+    "status": "running",
+    "started_at": "2026-10-21T15:13:41.869753745Z"
+  },
+  {
+    "name": "OpenClaw",
+    "id": "d84fd30acd5c1100d698822ba43d325d36bfcde1b7931ad63fa7e8ec15fc1d36",
+    "status": "running",
+    "started_at": "2026-10-21T15:13:18.424665936Z"
+  },
+  {
+    "name": "Tunarr",
+    "id": "0b3eacd6f30567c9a85df7f84ef24e5f597da3af00c0a6e8a460a5a35de27961",
+    "status": "running",
+    "started_at": "2026-10-21T15:13:42.159581722Z"
+  },
+  {
+    "name": "halogen-flash",
+    "id": "8c554a4e4643fb3a9913e4ad7c8541b6043d4b521db5f4a4e252a6ed98fa3016",
+    "status": "running",
+    "started_at": "2026-10-21T15:13:17.086676406Z"
+  },
+  {
+    "name": "reframer",
+    "id": "be069c8853b74a0d51b0acf37b0a7debbefac03b520c81cca00ed127e232d17e",
+    "status": "exited",
+    "started_at": "2026-10-17T01:15:02.892528931Z"
+  },
+  {
+    "name": "sonarr",
+    "id": "cb12e7e3e5af81f0b82c07989356882e7a816ec30c701177357969f97be7448c",
+    "status": "running",
+    "started_at": "2026-10-21T15:13:14.860477322Z"
+  },
+  {
+    "name": "wd-backup-web",
+    "id": "3c0d639f82112fb40f47020d766a7829deb2b2faa5ec29efaaf707fc6702d611",
+    "status": "exited",
+    "started_at": "2026-10-19T00:36:50.449713822Z"
+  },
+  {
+    "name": "immich-server",
+    "id": "9855aafc9062a88d0df28e293e832b4c704f9335ec27221e414d5264073b211f",
+    "status": "running",
+    "started_at": "2026-10-21T15:13:18.168874069Z"
+  },
+  {
+    "name": "immich-machine-learning",
+    "id": "b8f9b8e3122e6eed28295fbc720e061cde7b17edfde158d16526d8838552ef86",
+    "status": "running",
+    "started_at": "2026-10-21T15:13:17.35123908Z"
+  },
+  {
+    "name": "immich-postgres",
+    "id": "d553c5c00946ae5fbd38a6208915e5c52ef460c9fa737c1ed0af7455ba5e8e85",
+    "status": "running",
+    "started_at": "2026-10-21T15:13:17.598577601Z"
+  },
+  {
+    "name": "radarr",
+    "id": "048f6797c1982d491f8d1c473830afd1f9cd961c0901e94380ed9d838d5a08be",
+    "status": "running",
+    "started_at": "2026-10-21T15:13:34.490545183Z"
+  },
+  {
+    "name": "big-bear-seerr",
+    "id": "47df2a960df4d0c6bcf4de5538ca5c292b8b0e10f8488cd12ac364d84dc138c8",
+    "status": "running",
+    "started_at": "2026-10-21T15:13:16.826861951Z"
+  },
+  {
+    "name": "immich-redis",
+    "id": "0be3ac551ebeac03b6bb3c1b20c7d29764134293832763f6b54df48b81569453",
+    "status": "running",
+    "started_at": "2026-10-21T15:13:17.875576144Z"
+  }
+]

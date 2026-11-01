@@ -1,0 +1,127 @@
+{
+  "ok": true,
+  "context_id": "default",
+  "display": ":120",
+  "profile_dir": "/a0/usr/plugins/_desktop/profiles/agent-zero-desktop",
+  "size": {
+    "width": 1440,
+    "height": 900
+  },
+  "pointer": {
+    "x": 960,
+    "y": 540,
+    "screen": 0,
+    "window": 25170513
+  },
+  "active_window": {
+    "id": "25170513",
+    "title": "",
+    "class": "Soffice",
+    "name": "soffice",
+    "pid": 2662,
+    "geometry": {
+      "x": 431,
+      "y": 389,
+      "width": 587,
+      "height": 228
+    }
+  },
+  "windows": [
+    {
+      "id": "8388658",
+      "title": "Xfwm4",
+      "class": "Xfwm4",
+      "name": "xfwm4",
+      "pid": 934,
+      "geometry": {
+        "x": -1000,
+        "y": -1000,
+        "width": 5,
+        "height": 5
+      }
+    },
+    {
+      "id": "12582956",
+      "title": "Desktop",
+      "class": "Xfdesktop",
+      "name": "xfdesktop",
+      "pid": 1001,
+      "geometry": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "id": "25165860",
+      "title": "pilot-instance-2.txt \u2014 LibreOffice Writer",
+      "class": "libreoffice-writer",
+      "name": "libreoffice",
+      "pid": 2662,
+      "geometry": {
+        "x": 0,
+        "y": 49,
+        "width": 1440,
+        "height": 851
+      }
+    },
+    {
+      "id": "14680067",
+      "title": "xfce4-panel",
+      "class": "Xfce4-panel",
+      "name": "xfce4-panel",
+      "pid": 975,
+      "geometry": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 25
+      }
+    },
+    {
+      "id": "18874371",
+      "title": "wrapper-2.0",
+      "class": "Wrapper-2.0",
+      "name": "wrapper-2.0",
+      "pid": 1024,
+      "geometry": {
+        "x": 1341,
+        "y": 0,
+        "width": 1,
+        "height": 24
+      }
+    }
+  ],
+  "screenshot": {
+    "ok": true,
+    "path": "",
+    "format": "png",
+    "mime": "image/png",
+    "width": 1440,
+    "height": 900,
+    "captured_at": "2026-10-21T15:46:57Z",
+    "recent": true,
+    "ephemeral": true,
+    "ephemeral_ref": "a0-ephemeral-image://150515972ef749e4b2b791701226bbfb",
+    "context_id": "default",
+    "vision_load": {
+      "tool_name": "vision_load",
+      "tool_args": {
+        "paths": [
+          "a0-ephemeral-image://150515972ef749e4b2b791701226bbfb"
+        ]
+      }
+    },
+    "error": ""
+  },
+  "capabilities": {
+    "xdotool": "/usr/bin/xdotool",
+    "xrandr": "/usr/bin/xrandr",
+    "xwininfo": "/usr/bin/xwininfo",
+    "xprop": "/usr/bin/xprop",
+    "xwd": "/usr/bin/xwd",
+    "xclip": "/usr/bin/xclip"
+  },
+  "errors": []
+}

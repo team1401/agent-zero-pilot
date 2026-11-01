@@ -1,0 +1,3 @@
+{"name":"agent-zero-1","running":true,"autostart":true,"url":"http:\/\/100.108.186.69:50080","template":"\/boot\/config\/plugins\/dockerMan\/templates-user\/my-agent-zero-1.xml","icon":"\/state\/plugins\/dynamix.docker.manager\/images\/agent-zero-1-icon.png"}
+{"name":"agent-zero-2","running":true,"autostart":true,"url":"http:\/\/100.108.186.69:50081","template":"\/boot\/config\/plugins\/dockerMan\/templates-user\/my-agent-zero-2.xml","icon":"\/state\/plugins\/dynamix.docker.manager\/images\/agent-zero-2-icon.png"}
+{"original_schedule_preserved":true,"pilot_entries":["agent-zero-1 0","agent-zero-2 0"]}

@@ -1,0 +1,131 @@
+{
+  "unchanged_original_containers": [
+    "qbittorrent",
+    "syncthing",
+    "prowlarr",
+    "proton-vpn",
+    "plex",
+    "OpenClaw",
+    "Tunarr",
+    "halogen-flash",
+    "reframer",
+    "sonarr",
+    "wd-backup-web",
+    "immich-server",
+    "immich-machine-learning",
+    "immich-postgres",
+    "radarr",
+    "big-bear-seerr",
+    "immich-redis"
+  ],
+  "pilot": [
+    {
+      "name": "agent-zero-1",
+      "id": "26e79c6970c001fa57953945d08339b639c08579b04b4a7aa42c46f2f254eece",
+      "image": "sha256:46e4e5fd59568521ba64de19bb8e866dca7df57d98545cfb272777af6e915fae",
+      "state": "running",
+      "mounts": [
+        {
+          "Type": "bind",
+          "Source": "/mnt/fastssd/AppData/agent-zero-1/usr",
+          "Destination": "/a0/usr",
+          "Mode": "rw",
+          "RW": true,
+          "Propagation": "rprivate"
+        },
+        {
+          "Type": "bind",
+          "Source": "/mnt/fastssd/AppData/agent-zero-1/browser",
+          "Destination": "/a0/tmp/browser",
+          "Mode": "rw",
+          "RW": true,
+          "Propagation": "rprivate"
+        }
+      ],
+      "ports": {
+        "80/tcp": [
+          {
+            "HostIp": "100.108.186.69",
+            "HostPort": "50080"
+          }
+        ]
+      },
+      "memory": 8589934592,
+      "cpus": 4000000000,
+      "privileged": false,
+      "labels": {
+        "io.buildah.version": "1.42.1",
+        "net.unraid.docker.icon": "https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/agent-zero.png",
+        "net.unraid.docker.managed": "dockerman",
+        "net.unraid.docker.webui": "http://100.108.186.69:50080",
+        "org.opencontainers.image.authors": "Kali Developers <devel@kali.org>",
+        "org.opencontainers.image.created": "2026-02-01T04:04:48Z",
+        "org.opencontainers.image.description": "Official Kali Linux container image for kali-rolling",
+        "org.opencontainers.image.revision": "bc19fe13",
+        "org.opencontainers.image.source": "https://gitlab.com/kalilinux/build-scripts/kali-docker",
+        "org.opencontainers.image.title": "Kali Linux (kali-rolling branch)",
+        "org.opencontainers.image.url": "https://www.kali.org/",
+        "org.opencontainers.image.vendor": "OffSec",
+        "org.opencontainers.image.version": "2026.02.01"
+      },
+      "auth_enabled": true,
+      "env_mode": "600",
+      "a2a_bad": 401,
+      "a2a_good": 200
+    },
+    {
+      "name": "agent-zero-2",
+      "id": "973e9149c0b2d1fab8b956ff27c02262d31652dc86e7e2c5b23790987dd0a07b",
+      "image": "sha256:46e4e5fd59568521ba64de19bb8e866dca7df57d98545cfb272777af6e915fae",
+      "state": "running",
+      "mounts": [
+        {
+          "Type": "bind",
+          "Source": "/mnt/fastssd/AppData/agent-zero-2/usr",
+          "Destination": "/a0/usr",
+          "Mode": "rw",
+          "RW": true,
+          "Propagation": "rprivate"
+        },
+        {
+          "Type": "bind",
+          "Source": "/mnt/fastssd/AppData/agent-zero-2/browser",
+          "Destination": "/a0/tmp/browser",
+          "Mode": "rw",
+          "RW": true,
+          "Propagation": "rprivate"
+        }
+      ],
+      "ports": {
+        "80/tcp": [
+          {
+            "HostIp": "100.108.186.69",
+            "HostPort": "50081"
+          }
+        ]
+      },
+      "memory": 8589934592,
+      "cpus": 4000000000,
+      "privileged": false,
+      "labels": {
+        "io.buildah.version": "1.42.1",
+        "net.unraid.docker.icon": "https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/agent-zero.png",
+        "net.unraid.docker.managed": "dockerman",
+        "net.unraid.docker.webui": "http://100.108.186.69:50081",
+        "org.opencontainers.image.authors": "Kali Developers <devel@kali.org>",
+        "org.opencontainers.image.created": "2026-02-01T04:04:48Z",
+        "org.opencontainers.image.description": "Official Kali Linux container image for kali-rolling",
+        "org.opencontainers.image.revision": "bc19fe13",
+        "org.opencontainers.image.source": "https://gitlab.com/kalilinux/build-scripts/kali-docker",
+        "org.opencontainers.image.title": "Kali Linux (kali-rolling branch)",
+        "org.opencontainers.image.url": "https://www.kali.org/",
+        "org.opencontainers.image.vendor": "OffSec",
+        "org.opencontainers.image.version": "2026.02.01"
+      },
+      "auth_enabled": true,
+      "env_mode": "600",
+      "a2a_bad": 401,
+      "a2a_good": 200
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+"/var/lib/docker"
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/loop2       30G   22G  7.8G  74% /var/lib/docker
+/dev/nvme1n1p1  2.8T  467G  1.4T  26% /mnt/fastssd
+TYPE            TOTAL     ACTIVE    SIZE      RECLAIMABLE
+Images          21        17        20.4GB    6.952GB (34%)
+Containers      17        15        1.053GB   982.7MB (93%)
+Local Volumes   0         0         0B        0B
+Build Cache     11        0         25.26MB   10.89kB
+6a7d5ad0e00e|qbittorrent|Up 2 hours
+cae2d000fd3e|syncthing|Up 11 hours
+38f166d929f3|prowlarr|Up 11 hours
+a489a51def8d|proton-vpn|Up 11 hours (healthy)
+7a16c0ae8336|plex|Up 11 hours
+d84fd30acd5c|OpenClaw|Up 11 hours (healthy)
+0b3eacd6f305|Tunarr|Up 25 hours
+8c554a4e4643|halogen-flash|Up 26 hours
+cb12e7e3e5af|sonarr|Up 2 days
+9855aafc9062|immich-server|Up 2 days (healthy)
+b8f9b8e3122e|immich-machine-learning|Up 2 days (healthy)
+d553c5c00946|immich-postgres|Up 2 days (healthy)
+048f6797c198|radarr|Up 2 days
+47df2a960df4|big-bear-seerr|Up 2 days
+0be3ac551ebe|immich-redis|Up 2 days
+
+mdState=STARTED
+mdResyncAction=check P
+mdResyncSize=5860522532
+mdResyncCorr=0
+mdResync=5860522532
+mdResyncPos=4632997024
+mdResyncDt=31
+mdResyncDb=4669440
+Error response from daemon: No such image: agent0ai/agent-zero:latest

@@ -1,0 +1,23 @@
+{"name":"\/qbittorrent","previous_running":true,"running":true,"same_id":true,"same_policy":true,"same_mounts":true,"native_label":"dockerman","health":null}
+{"name":"\/syncthing","previous_running":true,"running":true,"same_id":true,"same_policy":true,"same_mounts":true,"native_label":"dockerman","health":null}
+{"name":"\/prowlarr","previous_running":true,"running":true,"same_id":true,"same_policy":true,"same_mounts":true,"native_label":"dockerman","health":null}
+{"name":"\/proton-vpn","previous_running":true,"running":true,"same_id":true,"same_policy":true,"same_mounts":true,"native_label":"dockerman","health":"healthy"}
+{"name":"\/plex","previous_running":true,"running":true,"same_id":true,"same_policy":true,"same_mounts":true,"native_label":"dockerman","health":null}
+{"name":"\/OpenClaw","previous_running":true,"running":true,"same_id":true,"same_policy":true,"same_mounts":true,"native_label":"dockerman","health":"healthy"}
+{"name":"\/Tunarr","previous_running":true,"running":true,"same_id":true,"same_policy":true,"same_mounts":true,"native_label":"dockerman","health":null}
+{"name":"\/halogen-flash","previous_running":true,"running":true,"same_id":true,"same_policy":true,"same_mounts":true,"native_label":"dockerman","health":null}
+{"name":"\/reframer","previous_running":false,"running":false,"same_id":true,"same_policy":true,"same_mounts":true,"native_label":null,"health":null}
+{"name":"\/sonarr","previous_running":true,"running":true,"same_id":true,"same_policy":true,"same_mounts":true,"native_label":null,"health":null}
+{"name":"\/wd-backup-web","previous_running":false,"running":false,"same_id":true,"same_policy":true,"same_mounts":true,"native_label":"dockerman","health":null}
+{"name":"\/immich-server","previous_running":true,"running":true,"same_id":true,"same_policy":true,"same_mounts":true,"native_label":"dockerman","health":"healthy"}
+{"name":"\/immich-machine-learning","previous_running":true,"running":true,"same_id":true,"same_policy":true,"same_mounts":true,"native_label":"dockerman","health":"healthy"}
+{"name":"\/immich-postgres","previous_running":true,"running":true,"same_id":true,"same_policy":true,"same_mounts":true,"native_label":"dockerman","health":"healthy"}
+{"name":"\/radarr","previous_running":true,"running":true,"same_id":true,"same_policy":true,"same_mounts":true,"native_label":"dockerman","health":null}
+{"name":"\/big-bear-seerr","previous_running":true,"running":true,"same_id":true,"same_policy":true,"same_mounts":true,"native_label":"dockerman","health":null}
+{"name":"\/immich-redis","previous_running":true,"running":true,"same_id":true,"same_policy":true,"same_mounts":true,"native_label":"dockerman","health":null}
+autostart_unchanged=yes
+guard_restored=yes
+{"qbit_login_http":204,"authenticated_preferences":true,"torrent_count":0,"listen_port":40005,"forwarded_port_matches":true,"interface":"tun0"}
+proton-vpn netns=net:[4026533553]
+qbittorrent netns=net:[4026533553]
+native_cache_refreshed=yes

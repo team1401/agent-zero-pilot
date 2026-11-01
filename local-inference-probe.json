@@ -1,0 +1,44 @@
+{
+  "elapsed_s": 1.3290504520118702,
+  "response": {
+    "id": "chatcmpl-129d7f7283f04efebf345f03",
+    "created": 1792595050,
+    "model": "halogen-qwen3.8-flash-next",
+    "object": "chat.completion",
+    "choices": [
+      {
+        "index": 0,
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "LOCAL_READY",
+          "reasoning_content": "We need\n\nConsidering the limited time by the user, I have to give the solution based on the thinking directly now."
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 61,
+      "completion_tokens": 30,
+      "total_tokens": 91,
+      "completion_tokens_details": {
+        "reasoning_tokens": 26,
+        "reasoning_closed_at": 1,
+        "reasoning_closed_by": "answer_room"
+      }
+    },
+    "timings": {
+      "prompt_n": 61,
+      "predicted_n": 30,
+      "prompt_ms": 369.1,
+      "predicted_ms": 942.9,
+      "prompt_per_second": 165.267,
+      "predicted_per_second": 31.817,
+      "cache_n": 0,
+      "disk_restore_n": 0,
+      "disk_restore_ms": 0.0,
+      "prefix_n": 40,
+      "draft_n": 6,
+      "draft_n_accepted": 2
+    }
+  }
+}

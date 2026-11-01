@@ -1,0 +1,41 @@
+{
+  "jsonrpc": "2.0",
+  "id": "pilot-poll",
+  "result": {
+    "id": "0b1cc084-cedd-4bc9-a169-45db6296c83e",
+    "contextId": "cb9ae265-8218-4187-afee-e0edbe5f54ef",
+    "kind": "task",
+    "status": {
+      "state": "completed",
+      "timestamp": "2026-10-21T08:50:07.204356"
+    },
+    "history": [
+      {
+        "role": "user",
+        "parts": [
+          {
+            "kind": "text",
+            "text": "Controlled one-shot A2A connectivity test from the other pilot container. Reply with exactly A2A_LOCAL_OK. Do not call tools, delegate, change files, or send any further messages."
+          }
+        ],
+        "kind": "message",
+        "messageId": "7d875869-980b-4cd1-95ab-5df96c867227",
+        "taskId": "0b1cc084-cedd-4bc9-a169-45db6296c83e",
+        "contextId": "cb9ae265-8218-4187-afee-e0edbe5f54ef"
+      },
+      {
+        "role": "agent",
+        "parts": [
+          {
+            "kind": "text",
+            "text": "A2A_LOCAL_OK"
+          }
+        ],
+        "kind": "message",
+        "messageId": "36c2d1db-34b8-4a39-8282-35eac848bf4f",
+        "taskId": "0b1cc084-cedd-4bc9-a169-45db6296c83e",
+        "contextId": "cb9ae265-8218-4187-afee-e0edbe5f54ef"
+      }
+    ]
+  }
+}

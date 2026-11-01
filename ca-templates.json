@@ -1,0 +1,1378 @@
+{
+    "8": {
+        "PluginURL": "https://raw.githubusercontent.com/0xntpower/VastAI-Unraid-Widget/main/vastai.plg",
+        "Support": "https://forums.unraid.net/topic/200608-plugin-vastai-dashboard-tile/"
+    },
+    "171": {
+        "PluginURL": "https://raw.githubusercontent.com/BGriffin63/ReelSentry/main/reelsentry.plg",
+        "Support": "https://github.com/BGriffin63/ReelSentry/issues"
+    },
+    "252": {
+        "PluginURL": "https://raw.githubusercontent.com/Commifreak/unraid-appdata.backup/master/appdata.backup.beta.plg",
+        "Support": "https://forums.unraid.net/topic/136995-pluginbeta-appdatabackup/"
+    },
+    "253": {
+        "PluginURL": "https://raw.githubusercontent.com/Commifreak/unraid-appdata.backup/master/appdata.backup.plg",
+        "Support": "https://forums.unraid.net/topic/137710-plugin-appdatabackup/"
+    },
+    "254": {
+        "PluginURL": "https://raw.githubusercontent.com/Commifreak/ca.backup2/master/ca.backup2.plg",
+        "Support": "https://forums.unraid.net/topic/132721-plugin-ca-appdata-backup-restore-v3/"
+    },
+    "300": {
+        "PluginURL": "https://raw.githubusercontent.com/Cyanlabs/corsairpsu-unraid/master/corsairpsu.plg",
+        "Support": "https://forums.unraid.net/topic/86715-corsair-psu-statistics-inteligent-psus-fma965s-fork/"
+    },
+    "301": {
+        "PluginURL": "https://raw.githubusercontent.com/Cyanlabs/jsonapi-unraid/master/jsonapi.plg",
+        "Support": "https://forums.unraid.net/topic/86646-plugin-unraid-json-api/"
+    },
+    "353": {
+        "PluginURL": "https://raw.githubusercontent.com/DerekChan65535/unraid-disk-activity/main/disk.activity.plg",
+        "Support": "https://forums.unraid.net/topic/197765-plugin-disk-activity-real-time-io-utilization-column-for-array-pool-devices/"
+    },
+    "357": {
+        "PluginURL": "https://raw.githubusercontent.com/DevlinDelFuego/Unraid-LSIUtil/main/lsiutil.plg",
+        "Support": "https://forums.unraid.net/topic/195220-support-devlindelfuego-all-images-and-files"
+    },
+    "374": {
+        "PluginURL": "https://raw.githubusercontent.com/donimax/unraid-check-mk-agent/master/check_mk_agent23.plg",
+        "Support": "https://github.com/donimax/unraid-check-mk-agent"
+    },
+    "375": {
+        "PluginURL": "https://raw.githubusercontent.com/donimax/unraid-check-mk-agent/master/check_mk_agent24.plg",
+        "Support": "https://github.com/donimax/unraid-check-mk-agent"
+    },
+    "376": {
+        "PluginURL": "https://raw.githubusercontent.com/donimax/unraid-check-mk-agent/master/check_mk_agent25.plg",
+        "Support": "https://github.com/donimax/unraid-check-mk-agent"
+    },
+    "377": {
+        "PluginURL": "https://raw.githubusercontent.com/DonnieDice/unraid-kubernetes/main/plugin/unraid.kubernetes.plg",
+        "Support": "https://github.com/DonnieDice/unraid-kubernetes/issues"
+    },
+    "402": {
+        "PluginURL": "https://raw.githubusercontent.com/EideardVMR/unraid-easybackup/main/easybackup.plg",
+        "Support": "https://forums.unraid.net/topic/48286-plugin-ca-user-scripts/"
+    },
+    "404": {
+        "PluginURL": "https://github.com/EldonMcGuinness/UnraidDriveStandbyMonitor/raw/master/DriveStandbyMonitor.plg",
+        "Support": "https://forums.unraid.net/topic/147982-drive-standby-monitor-plugin-support/"
+    },
+    "408": {
+        "PluginURL": "https://raw.githubusercontent.com/EllipticSet/UGREEN-DXP4800Pro-LEDs/main/UGREEN-DXP4800Pro-LEDs.plg",
+        "Support": "https://github.com/EllipticSet/UGREEN-DXP4800Pro-LEDs/issues"
+    },
+    "468": {
+        "PluginURL": "https://raw.githubusercontent.com/FugginOld/Unraid-HBAviewer/main/hbaviewer.plg",
+        "Support": "https://github.com/FugginOld/Unraid-HBAviewer/issues"
+    },
+    "469": {
+        "PluginURL": "https://raw.githubusercontent.com/FugginOld/Unraid-Rebalance/main/rebalance.plg",
+        "Support": "https://github.com/FugginOld/Unraid-Rebalance/issues"
+    },
+    "568": {
+        "PluginURL": "https://raw.githubusercontent.com/Greite/unraid-btop/main/btop.plg",
+        "Support": "https://github.com/Greite/unraid-btop/issues"
+    },
+    "571": {
+        "PluginURL": "https://raw.githubusercontent.com/Greite/unraid-traefik-rolling-update/main/traefik.rolling.update.plg",
+        "Support": "https://github.com/Greite/unraid-traefik-rolling-update/issues"
+    },
+    "573": {
+        "PluginURL": "https://raw.githubusercontent.com/GuildDarts/unraid-plugin-docker.folder/master/plugins/docker.folder.plg",
+        "Support": "https://forums.unraid.net/topic/89702-plugin-docker-folder/"
+    },
+    "576": {
+        "PluginURL": "https://raw.githubusercontent.com/IkerSaint/ZFS-Master-Unraid/main/zfs.master.plg",
+        "Support": "https://forums.unraid.net/topic/122261-plugin-zfs-master/"
+    },
+    "655": {
+        "PluginURL": "https://raw.githubusercontent.com/jtok/unraid.vmbackup/master/vmbackup.plg",
+        "Support": "https://forums.unraid.net/topic/86303-vm-backup-plugin/"
+    },
+    "685": {
+        "PluginURL": "https://raw.githubusercontent.com/JanitorHead/unraid-themeswitch/master/themeswitch.plg",
+        "Support": "https://github.com/JanitorHead/unraid-themeswitch"
+    },
+    "686": {
+        "PluginURL": "https://raw.githubusercontent.com/JanitorHead/unraid-topprocesses/master/topprocesses.plg",
+        "Support": "https://github.com/JanitorHead/unraid-topprocesses"
+    },
+    "733": {
+        "PluginURL": "https://github.com/Joly0/unraid-pangolin_cli/raw/main/pangolin_cli.plg",
+        "Support": "https://forums.unraid.net/topic/199839-plugin-pangolin-cli/"
+    },
+    "734": {
+        "PluginURL": "https://github.com/Joly0/unraid-pangolin_newt/raw/main/pangolin_newt.plg",
+        "Support": "https://forums.unraid.net/topic/200209-plugin-pangolin-newt/"
+    },
+    "780": {
+        "PluginURL": "https://raw.githubusercontent.com/Kurotaku-sama/unraid.user.scripts.enhanced/main/user.scripts.enhanced.plg",
+        "Support": "https://forums.unraid.net/topic/191294-plugin-user-scripts-enhanced/"
+    },
+    "795": {
+        "PluginURL": "https://raw.githubusercontent.com/Lazaros-Chalkidis/unraid-aegis-mfa/main/aegis.mfa.plg",
+        "Support": "https://github.com/Lazaros-Chalkidis/unraid-aegis-mfa/issues"
+    },
+    "796": {
+        "PluginURL": "https://github.com/Lazaros-Chalkidis/unraid-diskviewer/raw/main/diskviewer.plg",
+        "Support": "https://github.com/Lazaros-Chalkidis/unraid-diskviewer/issues"
+    },
+    "797": {
+        "PluginURL": "https://raw.githubusercontent.com/Lazaros-Chalkidis/unraid-filesviewer/main/filesviewer.plg",
+        "Support": "https://github.com/Lazaros-Chalkidis/unraid-filesviewer/issues"
+    },
+    "798": {
+        "PluginURL": "https://github.com/Lazaros-Chalkidis/unraid-logsviewer/raw/main/logsviewer.plg",
+        "Support": "https://github.com/Lazaros-Chalkidis/unraid-logsviewer/issues"
+    },
+    "799": {
+        "PluginURL": "https://github.com/Lazaros-Chalkidis/unraid-streamviewer/raw/main/streamviewer.plg",
+        "Support": "https://github.com/Lazaros-Chalkidis/unraid-streamviewer/issues"
+    },
+    "801": {
+        "PluginURL": "https://raw.githubusercontent.com/Livin21/flotilla-agent/main/plugin/flotilla-agent.plg",
+        "Support": "https://forums.unraid.net/topic/200208-plugin-flotilla-agent-encrypted-push-notifications-for-unraid/"
+    },
+    "819": {
+        "PluginURL": "https://github.com/Lyror/Dockhook/raw/main/dockhook.plg",
+        "Support": "https://github.com/Lyror/Dockhook/issues"
+    },
+    "834": {
+        "PluginURL": "https://raw.githubusercontent.com/Mainfrezzer/unRAID-RAM-Disk/main/plugin/RAM-DISK-Dockerlog.plg",
+        "Support": "https://forums.unraid.net/topic/185193-plugin-ram-disk-for-docker-logs/"
+    },
+    "844": {
+        "PluginURL": "https://github.com/Mainfrezzer/unraid-scrubber/raw/master/scrubber.plg",
+        "Support": "https://forums.unraid.net/topic/187844-plugin-btrfs-scrubber"
+    },
+    "845": {
+        "PluginURL": "https://raw.githubusercontent.com/Mainfrezzer/unRAID-WOL/master/plugin/m-wakeonlan.plg",
+        "Support": "https://forums.unraid.net/topic/192464-plugin-wake-on-lan/"
+    },
+    "861": {
+        "PluginURL": "https://raw.githubusercontent.com/MatisOne/suplapm-unraid/main/suplapm.plg",
+        "Support": "https://github.com/MatisOne/suplapm-unraid/issues"
+    },
+    "875": {
+        "PluginURL": "https://raw.githubusercontent.com/MephistoJB/unraid-komodo-client-plugin/main/komodo-periphery.plg",
+        "Support": "https://github.com/MephistoJB/unraid-komodo-client-plugin/issues"
+    },
+    "927": {
+        "PluginURL": "https://raw.githubusercontent.com/Nebur692/failover-guard-unraid-plugin/main/failover-guard.plg",
+        "Support": "https://github.com/Nebur692/failover-guard-unraid-plugin/issues"
+    },
+    "996": {
+        "PluginURL": "https://raw.githubusercontent.com/Peuuuur-Noel/unraid-web-push-notification/master/plugin/web-push-notification.plg",
+        "Support": "https://forums.unraid.net/topic/168775-plugin-web-push-notification-agent/"
+    },
+    "1017": {
+        "PluginURL": "https://raw.githubusercontent.com/Piratkopia13/unraid-buddybackup/refs/heads/main/buddybackup.plg",
+        "Support": "https://forums.unraid.net/topic/186256-zfs-buddybackup-plugin-guide/"
+    },
+    "1052": {
+        "PluginURL": "https://raw.githubusercontent.com/R3yn4ld/ca.mover.tuning/master/plugins/ca.mover.tuning.plg",
+        "Support": "https://forums.unraid.net/topic/70783-plugin-mover-tuning/"
+    },
+    "1056": {
+        "PluginURL": "https://raw.githubusercontent.com/Railline/unraid-community-apps/main/plugins/crowdsec-unraid-bouncer.plg",
+        "Support": "https://github.com/Railline/unraid-community-apps/issues"
+    },
+    "1089": {
+        "PluginURL": "https://raw.githubusercontent.com/RayMunro/unraid-boot-ready-notify/main/boot.ready.warning.plg",
+        "Support": "https://github.com/RayMunro/unraid-boot-ready-notify/issues"
+    },
+    "1090": {
+        "PluginURL": "https://raw.githubusercontent.com/RayMunro/unraid-bulk-share-toggle/main/bulk-share-toggle.plg",
+        "Support": "https://github.com/RayMunro/unraid-bulk-share-toggle/issues"
+    },
+    "1091": {
+        "PluginURL": "https://raw.githubusercontent.com/RayMunro/unraid-cache-array-share/main/cache-array-share.plg",
+        "Support": "https://github.com/RayMunro/unraid-cache-array-share/issues"
+    },
+    "1092": {
+        "PluginURL": "https://raw.githubusercontent.com/RayMunro/unraid-mains-power-monitor/main/mains-power-monitor.plg",
+        "Support": "https://github.com/RayMunro/unraid-mains-power-monitor/issues"
+    },
+    "1093": {
+        "PluginURL": "https://raw.githubusercontent.com/RayMunro/unraid-parity-spotcheck/main/parity-spotcheck.plg",
+        "Support": "https://github.com/RayMunro/unraid-parity-spotcheck/issues"
+    },
+    "1153": {
+        "PluginURL": "https://raw.githubusercontent.com/SimonFair/WOLforServices/master/WOL4Services.plg",
+        "Support": "https://forums.unraid.net/topic/157327-plugin-wol-for-services/"
+    },
+    "1154": {
+        "PluginURL": "https://raw.githubusercontent.com/SimonFair/gpustat-unraid/master/gpustat.plg",
+        "Support": "https://forums.unraid.net/topic/89453-plugin-gpu-statistics/"
+    },
+    "1155": {
+        "PluginURL": "https://raw.githubusercontent.com/SimonFair/unraid.iSCSI/main/iSCSIgui.plg",
+        "Support": "https://forums.unraid.net/topic/98483-plugins-iscsi-gui-and-iscsi-target/"
+    },
+    "1156": {
+        "PluginURL": "https://raw.githubusercontent.com/SimonFair/IPMI-unRAID/master/plugin/ipmi.plg",
+        "Support": "https://forums.unraid.net/topic/135823-plugin-ipmi-for-611-i/"
+    },
+    "1157": {
+        "PluginURL": "https://raw.githubusercontent.com/SimonFair/unraid-lcd/master/lcd_manager.plg",
+        "Support": "https://forums.unraid.net/topic/136952-plugin-lcd_manager/"
+    },
+    "1158": {
+        "PluginURL": "https://raw.githubusercontent.com/SimonFair/NUT-unRAID/master/plugin/nut.plg",
+        "Support": "https://forums.lime-technology.com/topic/60217-plugin-nut-v2-network-ups-tools/"
+    },
+    "1159": {
+        "PluginURL": "https://raw.githubusercontent.com/SimonFair/Snapshots/main/snapshots.plg",
+        "Support": "https://forums.unraid.net/topic/114600-plugin-snapshots/"
+    },
+    "1160": {
+        "PluginURL": "https://raw.githubusercontent.com/SimonFair/tasmotapm-unraid/main/tasmotapm.plg",
+        "Support": "https://forums.unraid.net/topic/104565-plugin-tasmota-power-monitor"
+    },
+    "1161": {
+        "PluginURL": "https://raw.githubusercontent.com/SimonFair/unraid.usbip/master/unraid.usbip.plg",
+        "Support": "https://forums.unraid.net/topic/100511-plugin-usbip-commands/"
+    },
+    "1162": {
+        "PluginURL": "https://raw.githubusercontent.com/SimonFair/USB_Manager/master/usb_manager.plg",
+        "Support": "https://forums.unraid.net/topic/100511-plugin-usbip-commands/"
+    },
+    "1163": {
+        "PluginURL": "https://raw.githubusercontent.com/SimonFair/USB_Manager_usb_net_addon/main/usb_manager_aqc111_addon.plg",
+        "Support": "https://forums.unraid.net/topic/100511-plugin-usb_managerusbip-commands-and-gui/"
+    },
+    "1164": {
+        "PluginURL": "https://raw.githubusercontent.com/SimonFair/USB_Manager_Serial_Options_addon/main/usb_manager_serial_options_addon.plg",
+        "Support": "https://forums.unraid.net/topic/100511-plugin-usb_managerusbip-commands-and-gui/"
+    },
+    "1165": {
+        "PluginURL": "https://raw.githubusercontent.com/SimonFair/unraid.usbip-gui/master/usbip-gui.plg",
+        "Support": "https://forums.unraid.net/topic/100511-plugin-usbip-commands/"
+    },
+    "1177": {
+        "PluginURL": "https://raw.githubusercontent.com/Skitals/unraid-dark-plugin/master/plugins/dark.theme.plg",
+        "Support": "https://forums.unraid.net/topic/86724-plugin-dark-theme-now-in-plugin-format/"
+    },
+    "1178": {
+        "PluginURL": "https://raw.githubusercontent.com/Skitals/unraid-vfio-pci/master/plugins/vfio.pci.plg",
+        "Support": "https://forums.unraid.net/topic/87411-plugin-vfio-pci-config/"
+    },
+    "1193": {
+        "PluginURL": "https://github.com/SlrG/unRAID/raw/master/Plugins/ProFTPd.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=25695.0"
+    },
+    "1194": {
+        "PluginURL": "https://github.com/SlrG/unRAID/raw/master/Plugins/advCPaMV.plg",
+        "Support": "https://forums.unraid.net/topic/79570-plugin-advanced-copy-and-move-for-unraid-v683-and-later/"
+    },
+    "1214": {
+        "PluginURL": "https://raw.githubusercontent.com/SpaceinvaderOne/encrypted-drive-manager/main/unraid-plugin/encrypted-drive-manager.plg",
+        "Support": "https://forums.unraid.net/topic/193798-plugin-encrypted-drive-manager/"
+    },
+    "1227": {
+        "PluginURL": "https://raw.githubusercontent.com/Squidly271/ca.backup2/master/plugins/ca.backup2.plg",
+        "Support": "https://forums.unraid.net/topic/61211-plugin-ca-appdata-backup-restore-v2/"
+    },
+    "1228": {
+        "PluginURL": "https://raw.githubusercontent.com/Squidly271/ca.update.applications/master/plugins/ca.update.applications.plg",
+        "Support": "https://forums.unraid.net/topic/51959-plugin-ca-application-auto-update/"
+    },
+    "1229": {
+        "PluginURL": "https://raw.githubusercontent.com/Squidly271/ca.cfg.editor/master/plugins/ca.cfg.editor.plg",
+        "Support": "https://forums.unraid.net/topic/56382-plugin-ca-config-editor/"
+    },
+    "1230": {
+        "PluginURL": "https://raw.githubusercontent.com/hugenbd/ca.mover.tuning/master/plugins/ca.mover.tuning.plg",
+        "Support": "https://forums.unraid.net/topic/70783-plugin-mover-tuning/"
+    },
+    "1231": {
+        "PluginURL": "https://raw.githubusercontent.com/Squidly271/ca.cleanup.appdata/master/plugins/ca.cleanup.appdata.plg",
+        "Support": "https://forums.unraid.net/topic/51961-plugin-ca-cleanup-appdata/"
+    },
+    "1232": {
+        "PluginURL": "https://raw.githubusercontent.com/Squidly271/customtab/master/plugins/customtab.plg",
+        "Support": "https://forums.unraid.net/topic/57109-plugin-custom-tab/"
+    },
+    "1233": {
+        "PluginURL": "https://raw.githubusercontent.com/Squidly271/disable.security/master/plugins/disable.security.plg",
+        "Support": "https://forums.unraid.net/topic/80563-plugin-disable-security-mitigations/"
+    },
+    "1234": {
+        "PluginURL": "https://raw.githubusercontent.com/Squidly271/docker.patch/main/plugins/docker.patch.plg",
+        "Support": "https://forums.unraid.net/topic/134016-fix-to-a-small-issue-with-updating-oci-docker-images/"
+    },
+    "1235": {
+        "PluginURL": "https://raw.githubusercontent.com/Squidly271/docker.patch2/main/plugins/docker.patch2.plg",
+        "Support": "https://forums.unraid.net/topic/154107-plugin-docker-patch-6128/"
+    },
+    "1236": {
+        "PluginURL": "https://raw.githubusercontent.com/Squidly271/flash.remount/main/flash.remount.plg",
+        "Support": "https://forums.unraid.net/topic/113396-plugin-remount-flash-drive/"
+    },
+    "1237": {
+        "PluginURL": "https://raw.githubusercontent.com/Squidly271/gui-links/master/plugins/gui-links.plg",
+        "Support": "https://forums.unraid.net/topic/76206-plugin-gui-links/"
+    },
+    "1238": {
+        "PluginURL": "https://raw.githubusercontent.com/Squidly271/gui.search/main/plugins/gui.search.plg",
+        "Support": "https://forums.unraid.net/topic/104822-plugin-gui-search/"
+    },
+    "1239": {
+        "PluginURL": "https://raw.githubusercontent.com/Squidly271/ca.backup/master/plugins/ca.backup.plg",
+        "Support": "https://forums.unraid.net/topic/51960-plugin-ca-appdata-backup-restore-deprecated/"
+    },
+    "1240": {
+        "PluginURL": "https://raw.githubusercontent.com/Squidly271/page.notes/main/plugins/page.notes.plg",
+        "Support": "https://forums.unraid.net/topic/105155-plugin-user-notes/"
+    },
+    "1241": {
+        "PluginURL": "https://raw.githubusercontent.com/Squidly271/unraid-theme-engine/master/plugins/theme.engine.plg",
+        "Support": "https://forums.unraid.net/topic/87126-plugin-theme-engine-a-webgui-styler/"
+    },
+    "1242": {
+        "PluginURL": "https://raw.githubusercontent.com/Squidly271/ca.turbo/master/plugins/ca.turbo.plg",
+        "Support": "https://forums.unraid.net/topic/55671-plugin-ca-auto-turbo-write-mode"
+    },
+    "1243": {
+        "PluginURL": "https://raw.githubusercontent.com/Squidly271/unlimited-width/master/unlimited-width.plg",
+        "Support": "https://forums.unraid.net/topic/76211-plugin-ca-dynamix-unlimited-width/"
+    },
+    "1244": {
+        "PluginURL": "https://raw.githubusercontent.com/Squidly271/user.scripts/master/plugins/user.scripts.plg",
+        "Support": "https://forums.unraid.net/topic/48286-plugin-ca-user-scripts/"
+    },
+    "1245": {
+        "PluginURL": "https://raw.githubusercontent.com/Squidly271/Wxwork-sample/main/wxwork-sample.plg",
+        "Support": "https://forums.unraid.net/topic/167792-%E6%8F%92%E4%BB%B6-%E5%BE%AE%E4%BF%A1%E9%80%9A%E7%9F%A5-plugin-wechat-notifications/"
+    },
+    "1255": {
+        "PluginURL": "https://raw.githubusercontent.com/Steini1984/unRAID6-Sainoid/master/unRAID6-Sanoid.plg",
+        "Support": "https://forums.unraid.net/topic/94549-sanoidsyncoid-zfs-snapshots-and-replication/"
+    },
+    "1256": {
+        "PluginURL": "https://raw.githubusercontent.com/Steini1984/unRAID6-ZFS/master/unRAID6-ZFS.plg",
+        "Support": "https://forums.unraid.net/topic/41333-zfs-plugin-for-unraid/"
+    },
+    "1257": {
+        "PluginURL": "https://raw.githubusercontent.com/Steini1984/unRAID6-ZnapZend/master/unRAID6-ZnapZend.plg",
+        "Support": "https://forums.unraid.net/topic/84442-znapzend-plugin-for-unraid/"
+    },
+    "1260": {
+        "PluginURL": "https://raw.githubusercontent.com/StevenDTX/unRAID-open-vm-tools/master/openVMTools_compiled.plg",
+        "Support": "https://forums.unraid.net/topic/187519-plugin-open-vm-tools/"
+    },
+    "1277": {
+        "PluginURL": "https://raw.githubusercontent.com/Teknicallity/easy-rsync/main/easy.rsync.plg",
+        "Support": "https://forums.unraid.net/topic/199267-plugin-easy-rsync/"
+    },
+    "1278": {
+        "PluginURL": "https://raw.githubusercontent.com/Teknicallity/easy-rsync/dev/easy.rsync.beta.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=36543.0"
+    },
+    "1281": {
+        "PluginURL": "https://raw.githubusercontent.com/Terebi42/unraid-asustor-pfd/main/unraid-asustorpfd.plg",
+        "Support": "https://forums.unraid.net/topic/154177-asustor-platform-drivers/"
+    },
+    "1290": {
+        "PluginURL": "https://raw.githubusercontent.com/TheIlluminate92/unraid-md12xx-fan-control/main/releases/md12xx.fancontrol.plg",
+        "Support": "https://forums.unraid.net/topic/200454-plugin-md12xx-fan-control-dell-md1200-md1220-fan-control-beta/"
+    },
+    "1350": {
+        "PluginURL": "https://raw.githubusercontent.com/VladoPortos/folder.view2/main/folder.view2.plg",
+        "Support": "https://forums.unraid.net/topic/189167-plugin-folderview2"
+    },
+    "1357": {
+        "PluginURL": "https://raw.githubusercontent.com/Waseh/rclone-unraid/master/plugin/rclone.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=53365.0"
+    },
+    "1364": {
+        "PluginURL": "https://github.com/WuSiYu/unraid-custom-css/raw/refs/heads/master/custom.css.plg",
+        "Support": "https://forums.unraid.net/topic/195276-plugin-simple-custom-webui-css-plugin-for-unraid-72/"
+    },
+    "1368": {
+        "PluginURL": "https://raw.githubusercontent.com/Yoshiofthewire/Unraid_Docker_Cleanup/main/docker.cleanup.plg",
+        "Support": "https://github.com/Yoshiofthewire/Unraid_Docker_Cleanup/issues"
+    },
+    "1426": {
+        "PluginURL": "https://raw.githubusercontent.com/alexphillips-dev/Appdata-Cleanup-Plus/main/plugins/appdata.cleanup.plus.plg",
+        "Support": "https://forums.unraid.net/topic/197975-plugin-appdata-cleanup-plus/"
+    },
+    "1427": {
+        "PluginURL": "https://raw.githubusercontent.com/alexphillips-dev/FolderView-Plus/main/folderview.plus.plg",
+        "Support": "https://forums.unraid.net/topic/197631-plugin-folderview-plus/"
+    },
+    "1434": {
+        "PluginURL": "https://raw.githubusercontent.com/alturismo/unraid-aspm-helper/master/aspm-helper.plg",
+        "Support": "https://forums.unraid.net/topic/181843-support-alturismo-repos/"
+    },
+    "1435": {
+        "PluginURL": "https://raw.githubusercontent.com/alturismo/unraid-cache-mover/master/cache-mover.plg",
+        "Support": "https://forums.unraid.net/topic/181843-support-alturismo-repos/"
+    },
+    "1440": {
+        "PluginURL": "https://raw.githubusercontent.com/alturismo/unraid-pwm-fan/master/pwm-fan.plg",
+        "Support": "https://forums.unraid.net/topic/181843-support-alturismo-repos/"
+    },
+    "1441": {
+        "PluginURL": "https://raw.githubusercontent.com/alturismo/unraid-simple-mover/master/simple-mover.plg",
+        "Support": "https://forums.unraid.net/topic/181843-support-alturismo-repos/"
+    },
+    "1442": {
+        "PluginURL": "https://raw.githubusercontent.com/alturismo/unraid-vm-cycle/master/vm-cycle.plg",
+        "Support": "https://forums.unraid.net/topic/181843-support-alturismo-repos/"
+    },
+    "1478": {
+        "PluginURL": "https://raw.githubusercontent.com/andrebrait/fanctrlplus/main/plugin/fanctrlplus2.plg",
+        "Support": "https://github.com/andrebrait/fanctrlplus/issues"
+    },
+    "1546": {
+        "PluginURL": "https://raw.githubusercontent.com/b3rs3rk/gpustat-unraid/master/gpustat.plg",
+        "Support": "https://forums.unraid.net/topic/89453-plugin-gpu-statistics/"
+    },
+    "1568": {
+        "PluginURL": "https://github.com/benjaminmue/unraid-themer/raw/refs/heads/main/unraid-themer.plg",
+        "Support": "https://github.com/benjaminmue/unraid-themer"
+    },
+    "1575": {
+        "PluginURL": "https://raw.githubusercontent.com/bensonmcmoran/unraid-navigation-dropdown-menus/main/nav.dropdown.menus.plg",
+        "Support": "https://forums.unraid.net/topic/200761-plugin-navigation-dropdown-menus/"
+    },
+    "1649": {
+        "PluginURL": "https://raw.githubusercontent.com/bitcryptic-gw/unraid-docker-orphan-cleaner/main/plugin/docker.orphan.cleaner.plg",
+        "Support": "https://forums.unraid.net/topic/200737-docker-orphan-cleaner/"
+    },
+    "1674": {
+        "PluginURL": "https://raw.githubusercontent.com/bobbintb/unraid_vm_template/master/bobbintb.system.unraidvm.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=40111.0"
+    },
+    "1677": {
+        "PluginURL": "https://raw.githubusercontent.com/borgforge/borg-backup-ui/main/borg-backup-ui.plg",
+        "Support": "https://forums.unraid.net/topic/198728-plugin-borg-backup-ui-web-ui-for-borg-backup-on-unraid/"
+    },
+    "1715": {
+        "PluginURL": "https://github.com/ccmpbll/nvidia-smi-exporter/raw/main/unraid/nvidia-smi-exporter.plg",
+        "Support": "https://forums.unraid.net/topic/198946-plugin-nvidia-smi-exporter/"
+    },
+    "1745": {
+        "PluginURL": "https://raw.githubusercontent.com/chodeus/appdata.cleanup.ng/main/plugins/appdata.cleanup.ng.plg",
+        "Support": "https://github.com/chodeus/appdata.cleanup.ng"
+    },
+    "1746": {
+        "PluginURL": "https://raw.githubusercontent.com/chodeus/folder.view3/main/folder.view3.plg",
+        "Support": "https://forums.unraid.net/topic/197223-plugin-folderview3/"
+    },
+    "1757": {
+        "PluginURL": "https://raw.githubusercontent.com/ck9393/fanctrlplus/main/unraid/fanctrlplus.plg",
+        "Support": "https://forums.unraid.net/topic/191722-plugin-fancrtl-plus"
+    },
+    "1805": {
+        "PluginURL": "https://raw.githubusercontent.com/cslemieux/unraid-custom-smb-shares/main/custom.smb.shares.plg",
+        "Support": "https://forums.unraid.net/topic/195826-plugin-custom-smb-shares/"
+    },
+    "1844": {
+        "PluginURL": "https://raw.githubusercontent.com/davemachado/docker-stats/main/docker-stats.plg",
+        "Support": "https://forums.unraid.net/topic/196966-plugin-docker-stats/"
+    },
+    "1845": {
+        "PluginURL": "https://raw.githubusercontent.com/davidcoulson/unraid-docker-search/main/docker.search.plg",
+        "Support": "https://forums.unraid.net/topic/200879-plugin-docker-search-live-search-and-quick-filters-for-the-docker-page/"
+    },
+    "1846": {
+        "PluginURL": "https://raw.githubusercontent.com/davidcoulson/unraid-storage-topology/main/storage-topology.plg",
+        "Support": "https://forums.unraid.net/topic/200846-plugin-storage-topology-sas-controllers-cables-shelves-and-bays-at-a-glance/"
+    },
+    "1850": {
+        "PluginURL": "https://raw.githubusercontent.com/davidwheelen/unraid-routekeeper/main/routekeeper.plg",
+        "Support": "https://github.com/davidwheelen/unraid-routekeeper/issues"
+    },
+    "1853": {
+        "PluginURL": "https://raw.githubusercontent.com/dcflachs/compose_plugin/main/compose.manager.plg",
+        "Support": "https://forums.unraid.net/topic/114415-plugin-docker-compose-manager/"
+    },
+    "1854": {
+        "PluginURL": "https://raw.githubusercontent.com/dcflachs/kata.runtime/master/plugins/kata.runtime.plg",
+        "Support": "https://forums.unraid.net/topic/87093-plug-in-kata-container-runtime/"
+    },
+    "1855": {
+        "PluginURL": "https://raw.githubusercontent.com/dcflachs/swapfile_plugin/master/swapfile.plg",
+        "Support": "https://forums.unraid.net/topic/109342-plugin-swapfile-for-691/"
+    },
+    "1860": {
+        "PluginURL": "https://raw.githubusercontent.com/dereckhall/unraid-deadmans-switch/main/plugin/deadman-switch.plg",
+        "Support": "https://forums.unraid.net/topic/197904-plugin-dead-mans-switch-automated-actions-on-missed-check-ins/"
+    },
+    "1864": {
+        "PluginURL": "https://raw.githubusercontent.com/desertwitch/DVM-unRAID/main/plugin/dwdvm.plg",
+        "Support": "https://forums.unraid.net/topic/158472-plugin-data-volume-monitor-dvm/"
+    },
+    "1865": {
+        "PluginURL": "https://raw.githubusercontent.com/desertwitch/iotop-c-unRAID/main/plugin/dwiotopc.plg",
+        "Support": "https://forums.unraid.net/topic/167319-plugin-iotop-c-version-for-unraid/"
+    },
+    "1866": {
+        "PluginURL": "https://raw.githubusercontent.com/desertwitch/memtester-unRAID/main/plugin/dwmemtester.plg",
+        "Support": "https://forums.unraid.net/topic/168125-plugin-live-memory-tester-for-unraid/"
+    },
+    "1867": {
+        "PluginURL": "https://raw.githubusercontent.com/desertwitch/nwipe-unRAID/main/plugin/dwnwipe.plg",
+        "Support": "https://forums.unraid.net/topic/168624-plugin-nwipe-secure-disk-eraser-for-unraid/"
+    },
+    "1868": {
+        "PluginURL": "https://raw.githubusercontent.com/desertwitch/par2cron-unRAID/main/plugin/dwpar2cron.plg",
+        "Support": "https://forums.unraid.net/topic/196782-plugin-par2cron-for-unraid/"
+    },
+    "1869": {
+        "PluginURL": "https://raw.githubusercontent.com/desertwitch/python-unRAID/main/plugin/dwpython.plg",
+        "Support": "https://forums.unraid.net/topic/175402-plugin-python-3-for-unraid-611/"
+    },
+    "1870": {
+        "PluginURL": "https://raw.githubusercontent.com/desertwitch/sesmon-unRAID/main/plugin/dwsesmon.plg",
+        "Support": "https://forums.unraid.net/topic/194941-plugin-scsi-enclosure-monitor/"
+    },
+    "1871": {
+        "PluginURL": "https://raw.githubusercontent.com/desertwitch/SnapRAID-on-unRAID/main/plugin/dwsnap.plg",
+        "Support": "https://forums.unraid.net/topic/163648-plugin-snapraid-on-unraid/"
+    },
+    "1872": {
+        "PluginURL": "https://raw.githubusercontent.com/desertwitch/tldr-unRAID/main/plugin/dwtldr.plg",
+        "Support": "https://forums.unraid.net/topic/171110-plugin-tldr-command-line-cheatsheets-for-unraid/"
+    },
+    "1873": {
+        "PluginURL": "https://raw.githubusercontent.com/desertwitch/TTM-unRAID/main/plugin/dwttm.plg",
+        "Support": "https://forums.unraid.net/topic/183427-plugin-tmux-terminal-manager-ttm/"
+    },
+    "1874": {
+        "PluginURL": "https://raw.githubusercontent.com/desertwitch/mergerFS-unRAID/main/plugin/mergerfsp.plg",
+        "Support": "https://forums.unraid.net/topic/144999-plugin-mergerfs-for-unraid-support-topic/"
+    },
+    "1875": {
+        "PluginURL": "https://raw.githubusercontent.com/desertwitch/mirrorshuttle-unRAID/main/plugin/mirsht.plg",
+        "Support": "https://forums.unraid.net/topic/191119-plugin-mirrorshuttle-for-unraid/"
+    },
+    "1876": {
+        "PluginURL": "https://raw.githubusercontent.com/desertwitch/nAFP-unRAID/main/plugin/nafp.plg",
+        "Support": "https://forums.unraid.net/topic/144497-plugin-netatalk-afp-for-unraid-support-topic/"
+    },
+    "1877": {
+        "PluginURL": "https://raw.githubusercontent.com/desertwitch/NUT-unRAID/master/plugin/nut-dw.plg",
+        "Support": "https://forums.unraid.net/topic/60217-plugin-nut-v2-network-ups-tools/"
+    },
+    "1878": {
+        "PluginURL": "https://raw.githubusercontent.com/desertwitch/LLDP-unRAID/main/plugin/ulldpd.plg",
+        "Support": "https://forums.unraid.net/topic/155553-plugin-lldp-for-unraid-610-support-topic/"
+    },
+    "1939": {
+        "PluginURL": "https://raw.githubusercontent.com/digi-deity/rathole-unraid/main/rathole.plg",
+        "Support": "https://forums.unraid.net/topic/PLACEHOLDER_RATHOLE_SUPPORT_TOPIC"
+    },
+    "1940": {
+        "PluginURL": "https://raw.githubusercontent.com/digi-deity/rotshield/main/plugins/rotshield.plg",
+        "Support": "https://github.com/digi-deity/rotshield/issues"
+    },
+    "1966": {
+        "PluginURL": "https://raw.githubusercontent.com/dixtdf/taglib/master/plugins/taglib.plg",
+        "Support": "https://github.com/dixtdf/taglib/issues"
+    },
+    "1974": {
+        "PluginURL": "https://raw.githubusercontent.com/dkaser/unraid-auto-unlock/main/plugin/auto-unlock-preview.plg",
+        "Support": "https://forums.unraid.net/topic/195584-plugin-automatic-disk-unlock/"
+    },
+    "1975": {
+        "PluginURL": "https://raw.githubusercontent.com/dkaser/unraid-auto-unlock/main/plugin/auto-unlock.plg",
+        "Support": "https://forums.unraid.net/topic/195584-plugin-automatic-disk-unlock/"
+    },
+    "1976": {
+        "PluginURL": "https://raw.githubusercontent.com/dkaser/unraid-ddrescue/main/plugin/ddrescue.plg",
+        "Support": "https://forums.unraid.net/topic/192095-plugin-ddrescue/"
+    },
+    "1977": {
+        "PluginURL": "https://raw.githubusercontent.com/dkaser/unraid-enhancedlog/main/plugin/enhanced.log.plg",
+        "Support": "https://forums.unraid.net/topic/191178-plugin-enhanced-log-advanced-syslog-viewer-for-unraid/"
+    },
+    "1978": {
+        "PluginURL": "https://raw.githubusercontent.com/dkaser/unraid-fileactivity/main/plugin/file.activity.plg",
+        "Support": "https://forums.unraid.net/topic/191180-plugin-file-activity-see-whats-keeping-your-unraid-disks-busy/"
+    },
+    "1979": {
+        "PluginURL": "https://raw.githubusercontent.com/dkaser/unraid-header-fix/main/plugin/header-fix.plg",
+        "Support": "https://forums.unraid.net/topic/196339-plugin-header-link-fix/"
+    },
+    "1980": {
+        "PluginURL": "https://raw.githubusercontent.com/dkaser/unraid-labelman/main/plugin/labelman.plg",
+        "Support": "https://forums.unraid.net/topic/184701-plugin-label-manager/"
+    },
+    "1981": {
+        "PluginURL": "https://raw.githubusercontent.com/dkaser/unraid-motd/main/plugin/motd.plg",
+        "Support": "https://forums.unraid.net/topic/177200-support-motd-message-of-the-day/"
+    },
+    "1982": {
+        "PluginURL": "https://raw.githubusercontent.com/dkaser/unraid-ncdu/main/plugin/ncdu.plg",
+        "Support": "https://forums.unraid.net/topic/192094-plugin-ncdu/"
+    },
+    "1983": {
+        "PluginURL": "https://raw.githubusercontent.com/dkaser/unraid-openfiles/main/plugin/open.files.plg",
+        "Support": "https://forums.unraid.net/topic/191179-plugin-open-files-see-whats-preventing-unraid-from-shutting-down/"
+    },
+    "1984": {
+        "PluginURL": "https://raw.githubusercontent.com/dkaser/unraid-plugin-diagnostics/main/plugin/plugin-diagnostics.plg",
+        "Support": "https://forums.unraid.net/topic/174968-support-plugin-diagnostics/"
+    },
+    "1985": {
+        "PluginURL": "https://raw.githubusercontent.com/dkaser/unraid-sl/main/plugin/sl.plg",
+        "Support": "https://forums.unraid.net/profile/244077-edacerton/"
+    },
+    "1986": {
+        "PluginURL": "https://raw.githubusercontent.com/dkaser/unraid-storcli/main/plugin/storcli.plg",
+        "Support": "https://forums.unraid.net/topic/192112-plugin-storcli64/"
+    },
+    "1989": {
+        "PluginURL": "https://raw.githubusercontent.com/dkaser/unraid-tsidp/main/plugin/tsidp.plg",
+        "Support": "https://forums.unraid.net/topic/193586-plugin-tailscale-idp/"
+    },
+    "1998": {
+        "PluginURL": "https://raw.githubusercontent.com/dmacias72/IPMI-unRAID/master/plugin/ipmi.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=39787.0"
+    },
+    "1999": {
+        "PluginURL": "https://raw.githubusercontent.com/dmacias72/unRAID-libvirtwol/master/plugin/libvirtwol.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=44017.0"
+    },
+    "2000": {
+        "PluginURL": "https://raw.githubusercontent.com/dmacias72/NUT-unRAID/master/plugin/nut.plg",
+        "Support": "https://forums.lime-technology.com/topic/60217-plugin-nut-v2-network-ups-tools/"
+    },
+    "2001": {
+        "PluginURL": "https://raw.githubusercontent.com/dmacias72/unRAID-plugins/master/plugins/qnotify.plg",
+        "Support": "http://forums.unraid.net/forum/"
+    },
+    "2002": {
+        "PluginURL": "https://raw.githubusercontent.com/dmacias72/unRAID-speedtest/master/plugin/speedtest.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=43500.0"
+    },
+    "2003": {
+        "PluginURL": "https://raw.githubusercontent.com/dmacias72/unRAID-WOL/master/plugin/wakeonlan.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=38289.0"
+    },
+    "2004": {
+        "PluginURL": "https://raw.githubusercontent.com/docgyver/unraid-v6-plugins/master/ssh.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=47289.0"
+    },
+    "2010": {
+        "PluginURL": "https://raw.githubusercontent.com/dorgan/Unraid-networkstats/master/networkstats.plg",
+        "Support": "https://forums.unraid.net/topic/74525-plugin-network-stat/"
+    },
+    "2011": {
+        "PluginURL": "https://raw.githubusercontent.com/dorgan/Unraid-plexstreams/master/plexstreams.plg",
+        "Support": "https://forums.unraid.net/topic/92459-plugin-plex-streams/"
+    },
+    "2012": {
+        "PluginURL": "https://raw.githubusercontent.com/doron1/unraid-sas-spindown/master/sas-spindown.plg",
+        "Support": "https://forums.unraid.net/topic/97351-plugin-spin-down-sas-drives/"
+    },
+    "2016": {
+        "PluginURL": "https://raw.githubusercontent.com/drohack/UptimeKumaPlugin/main/uptime-kuma.plg",
+        "Support": "https://forums.unraid.net/topic/198044-plugin-uptime-kuma-monitor-widget-for-unraid-dashboard/"
+    },
+    "2039": {
+        "PluginURL": "https://github.com/elibosley/unraid-rtl8821au/raw/main/unraid-rtl8821au.plg",
+        "Support": "https://github.com/elibosley/unraid-rtl8821au/issues"
+    },
+    "2041": {
+        "PluginURL": "https://raw.githubusercontent.com/emaspa/unraidclaw/main/packages/unraid-plugin/unraidclaw.plg",
+        "Support": "https://forums.unraid.net/topic/197498-plugin-support-unraidclaw-ai-agent-gateway-with-permission-control/"
+    },
+    "2042": {
+        "PluginURL": "https://github.com/emaspa/wireview-hwmon-unraid/raw/main/wireview-hwmon.plg",
+        "Support": "https://forums.unraid.net/topic/197481-plugin-support-wireview-pro-ii-gpu-power-monitor-wireview-hwmon/"
+    },
+    "2051": {
+        "PluginURL": "https://raw.githubusercontent.com/externl/unraid-timemachine-discovery/main/timemachine-discovery.plg",
+        "Support": "https://github.com/externl/unraid-timemachine-discovery/issues"
+    },
+    "2074": {
+        "PluginURL": "https://raw.githubusercontent.com/fejich/unraid-ctop/master/ctop.plg",
+        "Support": "https://forums.unraid.net/topic/184757-support-fejich-ctop-fclones-webhookd/"
+    },
+    "2075": {
+        "PluginURL": "https://raw.githubusercontent.com/fejich/unraid-easytier/master/easytier.plg",
+        "Support": "https://forums.unraid.net/topic/184757-support-fejich-ctop-fclones-webhookd/"
+    },
+    "2076": {
+        "PluginURL": "https://raw.githubusercontent.com/fejich/unraid-fclones/master/fclones.plg",
+        "Support": "https://forums.unraid.net/topic/184757-support-fejich-ctop-fclones-webhookd/"
+    },
+    "2077": {
+        "PluginURL": "https://raw.githubusercontent.com/fejich/unraid-webhookd/master/webhookd.plg",
+        "Support": "https://forums.unraid.net/topic/184757-support-fejich-ctop-fclones-webhookd/"
+    },
+    "2106": {
+        "PluginURL": "https://raw.githubusercontent.com/flybrys/UGREEN-DXP4800GT-LED-Driver/main/UGREEN-DXP4800GT-LED-Driver.plg",
+        "Support": "https://github.com/flybrys/UGREEN-DXP4800GT-LED-Driver/issues"
+    },
+    "2127": {
+        "PluginURL": "https://github.com/fuzzy01/autotweak/releases/latest/download/autotweak.plg",
+        "Support": "https://forums.unraid.net/topic/160719-plugin-autotweak"
+    },
+    "2132": {
+        "PluginURL": "https://github.com/games-on-whales/unraid-plugin/releases/latest/download/gow.plg",
+        "Support": "https://discord.gg/kRGUDHNHt2"
+    },
+    "2141": {
+        "PluginURL": "https://raw.githubusercontent.com/ghzgod/unraid-docker-page-speedup/main/docker.page.speedup.plg",
+        "Support": "https://github.com/ghzgod/unraid-docker-page-speedup"
+    },
+    "2142": {
+        "PluginURL": "https://raw.githubusercontent.com/ghzgod/unraid-modern-appstore/main/modern.appstore.plg",
+        "Support": "https://github.com/ghzgod/unraid-modern-appstore"
+    },
+    "2144": {
+        "PluginURL": "https://raw.githubusercontent.com/giganode/corsairpsu-unraid/master/corsairpsu.plg",
+        "Support": "https://forums.unraid.net/topic/86715-corsair-rmi-hxi-axi-psu-statistics-cyanlabss-fork/"
+    },
+    "2145": {
+        "PluginURL": "https://github.com/giganode/unraid-i915-sriov/raw/master/i915-sriov.plg",
+        "Support": "https://forums.unraid.net/topic/154464-plugin-intel-igpu-sr-iov-support-page/"
+    },
+    "2146": {
+        "PluginURL": "https://raw.githubusercontent.com/giganode/unraid-mqtt-pub-sub/master/mqtt-pub-sub.plg",
+        "Support": "https://forums.unraid.net/topic/177974-plugin-mqtt-pub-sub-support-page/"
+    },
+    "2160": {
+        "PluginURL": "https://github.com/greycubesgav/unraid-templates/raw/main/davfs2//davfs2.plg",
+        "Support": "https://github.com/greycubesgav/unraid-templates"
+    },
+    "2161": {
+        "PluginURL": "https://raw.githubusercontent.com/gthrift/activestreams-unraid/main/activestreams.plg",
+        "Support": "https://forums.unraid.net/topic/196336-plugin-active-streams-display-your-active-embyjellyfinplex-streams-on-your-dashboard/"
+    },
+    "2203": {
+        "PluginURL": "https://raw.githubusercontent.com/hernandito/quick.favorites/main/quick.favorites.plg",
+        "Support": "https://forums.unraid.net/topic/197973-plugin-quick-favorites-custom-favorites-menu-pop-up/"
+    },
+    "2326": {
+        "PluginURL": "https://raw.githubusercontent.com/ibigsnet/FabricRouting/main/fabricrouting.plg",
+        "Support": "https://forums.unraid.net/topic/200065-plugin-thunderbolt-net-host-to-host-networking-over-thunderbolt-345-and-usb44v2/"
+    },
+    "2327": {
+        "PluginURL": "https://raw.githubusercontent.com/ibigsnet/NBDExport/main/nbd.plg",
+        "Support": "https://forums.unraid.net/topic/200219-plugin-nbd-export-host-disks-over-network-block-device-image-to-qcow2raw/"
+    },
+    "2328": {
+        "PluginURL": "https://raw.githubusercontent.com/ibigsnet/StorageGuard/main/storageguard.plg",
+        "Support": "https://forums.unraid.net/topic/199796-plugin-storage-guard-free-space-thresholds-so-you-know-if-a-failed-disk-still-leaves-room-to-move-data/"
+    },
+    "2329": {
+        "PluginURL": "https://raw.githubusercontent.com/ibigsnet/ThunderboltNet/main/thunderboltnet.plg",
+        "Support": "https://forums.unraid.net/topic/200065-plugin-thunderbolt-net-host-to-host-networking-over-thunderbolt-345-and-usb44v2/"
+    },
+    "2380": {
+        "PluginURL": "https://raw.githubusercontent.com/ich777/unraid-amd-vendor-reset/master/amd-vendor-reset.plg",
+        "Support": "https://forums.unraid.net/topic/92865-support-ich777-nvidiadvbzfsiscsimft-kernel-helperbuilder-docker/"
+    },
+    "2387": {
+        "PluginURL": "https://raw.githubusercontent.com/ich777/unraid-aquacomputer-d5next/master/aquacomputer-d5next-hwmon.plg",
+        "Support": "https://forums.unraid.net/topic/92865-support-ich777-amd-vendor-reset-coraltpu-hpsahba/"
+    },
+    "2388": {
+        "PluginURL": "https://raw.githubusercontent.com/ich777/unraid-aquacomputer-quadro/master/aquacomputer-quadro-hwmon.plg",
+        "Support": "https://forums.unraid.net/topic/92865-support-ich777-amd-vendor-reset-coraltpu-hpsahba/"
+    },
+    "2425": {
+        "PluginURL": "https://github.com/ich777/unraid-firewire/raw/master/firewire.plg",
+        "Support": "https://forums.unraid.net/topic/92865-support-ich777-nvidiadvb-kernel-helperbuilder-docker/"
+    },
+    "2431": {
+        "PluginURL": "https://github.com/ich777/unraid-hailort-driver/raw/master/hailort-driver.plg",
+        "Support": "https://forums.unraid.net/topic/92865-support-ich777-amd-vendor-reset-coraltpu-hpsahba/"
+    },
+    "2435": {
+        "PluginURL": "https://github.com/ich777/unraid-it87-driver/raw/master/it87-driver.plg",
+        "Support": "https://forums.unraid.net/topic/92865-support-ich777-nvidiadvb-kernel-helperbuilder-docker/"
+    },
+    "2439": {
+        "PluginURL": "https://raw.githubusercontent.com/ich777/intel-gvt-g/master/intel-gvt-g.plg",
+        "Support": "https://forums.unraid.net/topic/108650-plugin-intel-gvt-g/"
+    },
+    "2447": {
+        "PluginURL": "https://github.com/ich777/unraid-lxc-plugin/raw/master/lxc.plg",
+        "Support": "https://forums.unraid.net/topic/123935-plugin-lxc-plugin/"
+    },
+    "2455": {
+        "PluginURL": "https://raw.githubusercontent.com/ich777/unraid-memryx-driver/master/memryx-driver.plg",
+        "Support": "https://forums.unraid.net/topic/92865-support-ich777-amd-vendor-reset-coraltpu-hpsahba/"
+    },
+    "2463": {
+        "PluginURL": "https://github.com/ich777/unraid-nct6687-driver/raw/master/nct6687-driver.plg",
+        "Support": "https://forums.unraid.net/topic/92865-support-ich777-nvidiadvb-kernel-helperbuilder-docker/"
+    },
+    "2465": {
+        "PluginURL": "https://github.com/ich777/unraid-nut-actions/raw/master/nut-actions.plg",
+        "Support": "https://forums.unraid.net/topic/92865-support-ich777-amd-vendor-reset-coraltpu-hpsahba"
+    },
+    "2473": {
+        "PluginURL": "https://github.com/ich777/unraid-openrgb-patch/raw/master/openrgb-patch.plg",
+        "Support": "https://forums.unraid.net/topic/92865-support-ich777-amd-vendor-reset-coraltpu-hpsahba/"
+    },
+    "2484": {
+        "PluginURL": "https://github.com/ich777/unraid-prometheus_msi_afterburner_exporter/raw/master/prometheus_msi_afterburner_exporter.plg",
+        "Support": "https://forums.unraid.net/topic/110995-plugin-prometheus-unraid-plugins/"
+    },
+    "2485": {
+        "PluginURL": "https://raw.githubusercontent.com/ich777/unraid-prometheus_fritzbox_exporter/master/prometheus_fritzbox_exporter.plg",
+        "Support": "https://forums.unraid.net/topic/110995-plugin-prometheus-unraid-plugins/"
+    },
+    "2486": {
+        "PluginURL": "https://github.com/ich777/unraid-prometheus_node_exporter/raw/master/prometheus_node_exporter.plg",
+        "Support": "https://forums.unraid.net/topic/110995-plugin-prometheus-unraid-plugins/"
+    },
+    "2487": {
+        "PluginURL": "https://raw.githubusercontent.com/ich777/unraid-prometheus_wireguard_exporter/master/prometheus_wireguard_exporter.plg",
+        "Support": "https://forums.unraid.net/topic/110995-plugin-prometheus-unraid-plugins/"
+    },
+    "2488": {
+        "PluginURL": "https://raw.githubusercontent.com/ich777/unraid-prometheus_nvidia_smi_exporter/master/prometheus_nvidia_smi_exporter.plg",
+        "Support": "https://forums.unraid.net/topic/110995-plugin-prometheus-unraid-plugins/"
+    },
+    "2492": {
+        "PluginURL": "https://github.com/ich777/unraid-qnapec/raw/master/qnap-ec.plg",
+        "Support": "https://forums.unraid.net/topic/92865-support-ich777-amd-vendor-reset-coraltpu-hpsahba/"
+    },
+    "2495": {
+        "PluginURL": "https://github.com/ich777/unraid-rcon/raw/master/rcon.plg",
+        "Support": "https://forums.unraid.net/topic/92865-support-ich777-amd-vendor-reset-coraltpu-hpsahba/"
+    },
+    "2513": {
+        "PluginURL": "https://raw.githubusercontent.com/ich777/unraid-sundtek-driver/master/sundtek-driver.plg",
+        "Support": "https://forums.unraid.net/topic/99027-plugin-dvb-driver/"
+    },
+    "2527": {
+        "PluginURL": "https://github.com/ich777/unraid-ugreenleds-driver/raw/master/ugreenleds-driver.plg",
+        "Support": "https://forums.unraid.net/topic/92865-support-ich777-amd-vendor-reset-coraltpu-hpsahba/"
+    },
+    "2542": {
+        "PluginURL": "https://raw.githubusercontent.com/ich777/unraid-age/master/age.plg",
+        "Support": "https://forums.unraid.net/topic/110023-plugin-age/"
+    },
+    "2543": {
+        "PluginURL": "https://github.com/ich777/unraid-ashmem-driver/raw/master/ashmem-driver.plg",
+        "Support": "https://forums.unraid.net/topic/92865-support-ich777-amd-vendor-reset-coraltpu-hpsahba"
+    },
+    "2544": {
+        "PluginURL": "https://raw.githubusercontent.com/ich777/unraid-corefreq/master/corefreq.plg",
+        "Support": "https://forums.unraid.net/topic/109314-plugin-corefreq/"
+    },
+    "2545": {
+        "PluginURL": "https://github.com/ich777/unraid-headscale-admin/raw/master/headscale-admin.plg",
+        "Support": "https://forums.unraid.net/topic/92865-support-ich777-amd-vendor-reset-coraltpu-hpsahba"
+    },
+    "2546": {
+        "PluginURL": "https://github.com/ich777/unraid-hpsahba/raw/master/hpsahba.plg",
+        "Support": "https://forums.unraid.net/topic/92865-support-ich777-nvidiadvb-kernel-helperbuilder-docker/"
+    },
+    "2547": {
+        "PluginURL": "https://raw.githubusercontent.com/ich777/iscsi-initiator/master/iscsi-initiator.plg",
+        "Support": "https://forums.unraid.net/topic/113270-plugin-iscsi-initiator/"
+    },
+    "2548": {
+        "PluginURL": "https://raw.githubusercontent.com/ich777/intel-gpu-top/master/intel-gpu-top.plg",
+        "Support": "https://forums.unraid.net/topic/92865-support-ich777-nvidiadvb-kernel-helperbuilder-docker/"
+    },
+    "2552": {
+        "PluginURL": "https://raw.githubusercontent.com/ich777/unraid-nvtop/master/nvtop.plg",
+        "Support": "https://forums.unraid.net/topic/98978-plugin-nvidia-driver/"
+    },
+    "2553": {
+        "PluginURL": "https://raw.githubusercontent.com/ich777/unraid-radeontop/master/radeontop.plg",
+        "Support": "https://forums.unraid.net/topic/92865-support-ich777-nvidiadvb-kernel-helperbuilder-docker/"
+    },
+    "2555": {
+        "PluginURL": "https://github.com/ich777/unraid-uinput/raw/master/uinput.plg",
+        "Support": "https://forums.unraid.net/topic/92865-support-ich777-nvidiadvb-kernel-helperbuilder-docker/"
+    },
+    "2556": {
+        "PluginURL": "https://github.com/ich777/unraid-replication/raw/master/unraid-replication.plg",
+        "Support": "https://forums.unraid.net/topic/167503-plugin-unraid-replication/"
+    },
+    "2598": {
+        "PluginURL": "https://raw.githubusercontent.com/itimpi/parity.check.tuning/master/parity.check.tuning.plg",
+        "Support": "https://forums.unraid.net/topic/78394-plugin-parity-check-tuning/"
+    },
+    "2618": {
+        "PluginURL": "https://github.com/jandrop/u-manager-files-releases/releases/latest/download/UManagerFiles.plg",
+        "Support": "https://github.com/jandrop/u-manager-files-releases/issues"
+    },
+    "2630": {
+        "PluginURL": "https://github.com/jbrodriguez/controlr/releases/latest/download/controlr.plg",
+        "Support": "https://forums.unraid.net/topic/51332-plugin-controlr/"
+    },
+    "2631": {
+        "PluginURL": "https://github.com/jbrodriguez/controlrd/releases/latest/download/controlrd.plg",
+        "Support": "https://forums.unraid.net/topic/51332-plugin-controlr/"
+    },
+    "2632": {
+        "PluginURL": "https://github.com/jbrodriguez/unbalance/releases/latest/download/unbalanced.plg",
+        "Support": "https://forums.unraid.net/topic/43651-plug-in-unbalance/"
+    },
+    "2635": {
+        "PluginURL": "https://raw.githubusercontent.com/jcofer555/automover/main/plugin/automover.plg",
+        "Support": "https://forums.unraid.net/topic/192216-automover-for-unraid/"
+    },
+    "2636": {
+        "PluginURL": "https://raw.githubusercontent.com/jcofer555/flash-backup/main/plugin/flash-backup.plg",
+        "Support": "https://forums.unraid.net/topic/197716-flash-backup-for-unraid/"
+    },
+    "2637": {
+        "PluginURL": "https://raw.githubusercontent.com/jcofer555/vm-backup-and-restore/main/plugin/vm-backup-and-restore.plg",
+        "Support": "https://forums.unraid.net/topic/197218-vm-backup-restore-for-unraid/"
+    },
+    "2638": {
+        "PluginURL": "https://raw.githubusercontent.com/jcofer555/zip_manager/main/plugin/zip_manager.plg",
+        "Support": "https://forums.unraid.net/topic/191678-zip-manager-for-unraid/"
+    },
+    "2654": {
+        "PluginURL": "https://raw.githubusercontent.com/jinlife/unraid-r8125-r8152-driver/main/unraid-r8125.plg",
+        "Support": "https://forums.unraid.net/topic/141349-plugin-realtek-r8125-r8168-and-r8152-drivers/"
+    },
+    "2655": {
+        "PluginURL": "https://raw.githubusercontent.com/jinlife/unraid-r8125-r8152-driver/main/unraid-r8126.plg",
+        "Support": "https://forums.unraid.net/topic/141349-plugin-realtek-r8125-r8168-and-r8152-drivers/"
+    },
+    "2656": {
+        "PluginURL": "https://raw.githubusercontent.com/jinlife/unraid-r8125-r8152-driver/main/unraid-r8152.plg",
+        "Support": "https://forums.unraid.net/topic/141349-plugin-realtek-r8125-r8168-and-r8152-drivers/"
+    },
+    "2657": {
+        "PluginURL": "https://raw.githubusercontent.com/jinlife/unraid-r8125-r8152-driver/main/unraid-r8168.plg",
+        "Support": "https://forums.unraid.net/topic/141349-plugin-realtek-r8125-r8168-and-r8152-drivers/"
+    },
+    "2708": {
+        "PluginURL": "https://github.com/jo-sobo/llmstats-unraid-plugin/raw/main/llmstats.plg",
+        "Support": "https://forums.unraid.net/topic/199438-plugin-llmstats"
+    },
+    "2709": {
+        "PluginURL": "https://github.com/jo-sobo/scriptlogs-unraid-plugin/raw/main/scriptlogs.plg",
+        "Support": "https://forums.unraid.net/topic/192397-plugin-scriptlogs"
+    },
+    "2717": {
+        "PluginURL": "https://raw.githubusercontent.com/johnngone/fresh-editor-unraid/main/plugin/fresh-editor.plg",
+        "Support": "https://forums.unraid.net/topic/196640-plugin-fresh-a-terminal-text-editor/"
+    },
+    "2718": {
+        "PluginURL": "https://raw.githubusercontent.com/johnngone/micro-editor-unraid/main/plugin/micro-editor.plg",
+        "Support": "https://github.com/johnngone/micro-editor-unraid/issues"
+    },
+    "2720": {
+        "PluginURL": "https://raw.githubusercontent.com/johnpwhite/unraid-plg-aicliagents/main/unraid-aicliagents.plg",
+        "Support": "https://forums.unraid.net/topic/197460-plugin-support-unraid-tab-for-ai-cli-coding-agents-gemini-cli-claude-code-opencode-kilo-code-pi-coder-codex-cli-factory-droid-cli-copilot-nano-coder/"
+    },
+    "2721": {
+        "PluginURL": "https://raw.githubusercontent.com/johnpwhite/unraid-plg-connections/main/unraid-connections.plg",
+        "Support": "https://forums.unraid.net/topic/200548-plugin-support-unraid-plugin-to-view-in-near-real-time-what-and-who-is-connected-to-your-core-host-services/"
+    },
+    "2722": {
+        "PluginURL": "https://raw.githubusercontent.com/johnpwhite/unraid-plg-zram/main/unraid-zram-card.plg",
+        "Support": "https://forums.unraid.net/topic/196763-new-plugin-created-zram/"
+    },
+    "2733": {
+        "PluginURL": "https://raw.githubusercontent.com/joshmans/unraid-active-directory-extras/main/active.directory.plg",
+        "Support": "https://github.com/joshmans/unraid-active-directory-extras/issues"
+    },
+    "2734": {
+        "PluginURL": "https://raw.githubusercontent.com/joshmans/ca.bulk.unpin/main/ca.bulk.unpin.plg",
+        "Support": "https://github.com/joshmans/ca.bulk.unpin/issues"
+    },
+    "2735": {
+        "PluginURL": "https://raw.githubusercontent.com/joshmans/unraid-menumanager/main/menumanager.plg",
+        "Support": "https://github.com/joshmans/unraid-menumanager/issues"
+    },
+    "2736": {
+        "PluginURL": "https://raw.githubusercontent.com/joshmans/unraid-plugin-parking/main/plugin-parking.plg",
+        "Support": "https://github.com/joshmans/unraid-plugin-parking/issues"
+    },
+    "2737": {
+        "PluginURL": "https://raw.githubusercontent.com/joshmans/unraid-sesmon-extended/main/sesmon-ext.plg",
+        "Support": "https://github.com/joshmans/unraid-sesmon-extended/issues"
+    },
+    "2738": {
+        "PluginURL": "https://raw.githubusercontent.com/joshmans/unraid-text-editor-extensions/main/text.editor.extensions.plg",
+        "Support": "https://github.com/joshmans/unraid-text-editor-extensions/issues"
+    },
+    "2739": {
+        "PluginURL": "https://raw.githubusercontent.com/joshmans/unraid-docker-template-fields/main/unraid-docker-template-fields.plg",
+        "Support": "https://github.com/joshmans/unraid-docker-template-fields/issues"
+    },
+    "2740": {
+        "PluginURL": "https://raw.githubusercontent.com/joshmans/unraid-log-health/main/unraid-log-health.plg",
+        "Support": "https://github.com/joshmans/unraid-log-health/issues"
+    },
+    "2765": {
+        "PluginURL": "https://raw.githubusercontent.com/junkerderprovinz/bombvault-widget/main/plugin/bombvaultwidget.plg",
+        "Support": "https://forums.unraid.net/topic/199509-support-junkerderprovinz-bombvault/"
+    },
+    "2771": {
+        "PluginURL": "https://raw.githubusercontent.com/junkerderprovinz/firesquire/main/plugin/firesquire.plg",
+        "Support": "https://forums.unraid.net/topic/199508-support-junkerderprovinz-firesquire/"
+    },
+    "2788": {
+        "PluginURL": "https://raw.githubusercontent.com/junkerderprovinz/shiplog/main/plugin/shiplog.plg",
+        "Support": "https://forums.unraid.net/topic/199510-support-junkerderprovinz-shiplog/"
+    },
+    "2816": {
+        "PluginURL": "https://github.com/kaedinger/unspin/releases/latest/download/unspin.plg",
+        "Support": "https://forums.unraid.net/topic/198091-plugin-unspin-rudimentary-hot-file-tiering-for-unraid/"
+    },
+    "2869": {
+        "PluginURL": "https://raw.githubusercontent.com/kubedzero/unraid-snmp/main/snmp.plg",
+        "Support": "https://forums.unraid.net/topic/39339-plug-in-snmp"
+    },
+    "3208": {
+        "PluginURL": "https://raw.githubusercontent.com/ljm42/unraid-upnp/master/plugins/upnp-monitor.plg",
+        "Support": "https://forums.unraid.net/topic/86928-plugin-upnp-monitor/"
+    },
+    "3235": {
+        "PluginURL": "https://raw.githubusercontent.com/loukaniko85/unraid-plexstreams/master/plexstreams.plg",
+        "Support": "https://github.com/loukaniko85/unraid-plexstreams/issues"
+    },
+    "3256": {
+        "PluginURL": "https://github.com/mac-lucky/pushward-unraid-plugin/raw/main/pushward-unraid.plg",
+        "Support": "https://github.com/mac-lucky/pushward-unraid-plugin/issues"
+    },
+    "3289": {
+        "PluginURL": "https://raw.githubusercontent.com/marching-poozer/unraid-port-viewer/main/ports.plg",
+        "Support": "https://github.com/marching-poozer/unraid-port-viewer"
+    },
+    "3333": {
+        "PluginURL": "https://raw.githubusercontent.com/masterwishx/ca.mover.tuning/master/plugins/ca.mover.tuning.plg",
+        "Support": "https://forums.unraid.net/topic/70783-plugin-mover-tuning/"
+    },
+    "3339": {
+        "PluginURL": "https://raw.githubusercontent.com/matthewbolding/unraid-plugin-file-lock/master/file.lock.plg",
+        "Support": "https://forums.unraid.net/topic/200587-plugin-file-lock/"
+    },
+    "3355": {
+        "PluginURL": "https://raw.githubusercontent.com/mccray-s/unraid-deck-agent/main/UnraidDeck.plg",
+        "Support": "https://forums.unraid.net/topic/198651-plugin-unraid-deck-notification-agent/"
+    },
+    "3424": {
+        "PluginURL": "https://raw.githubusercontent.com/morgendagen/Unraid-Secure-WebGUI/main/ACME.plg",
+        "Support": "https://forums.unraid.net/topic/189395-plugin-secure-unraid-webgui-with-acmesh/"
+    },
+    "3430": {
+        "PluginURL": "https://raw.githubusercontent.com/mr1beast/unraid-secretguard/main/unraid-secretguard.plg",
+        "Support": "https://forums.unraid.net/topic/200627-plugin-unraid-secretguard/"
+    },
+    "3439": {
+        "PluginURL": "https://raw.githubusercontent.com/mstrhakr/compose_plugin/dev/compose.manager.plg",
+        "Support": "https://forums.unraid.net/topic/197334-plugin-compose-manager-plus/"
+    },
+    "3440": {
+        "PluginURL": "https://raw.githubusercontent.com/mstrhakr/compose_plugin/main/compose.manager.plg",
+        "Support": "https://forums.unraid.net/topic/197334-plugin-compose-manager-plus/"
+    },
+    "3441": {
+        "PluginURL": "https://raw.githubusercontent.com/mstrhakr/docker.networks/main/docker.networks.plg",
+        "Support": "https://forums.unraid.net/topic/199371-plugin-docker-network-manager/"
+    },
+    "3479": {
+        "PluginURL": "https://raw.githubusercontent.com/netbirdio/netbird-unraid/main/plugin/netbird.plg",
+        "Support": "https://github.com/netbirdio/netbird-unraid/issues"
+    },
+    "3513": {
+        "PluginURL": "https://raw.githubusercontent.com/noodlemctwoodle/unraid-ugreen-idx6011-pro/main/ugreen-idx6011-pro.plg",
+        "Support": "https://github.com/noodlemctwoodle/unraid-ugreen-idx6011-pro/issues"
+    },
+    "4163": {
+        "PluginURL": "https://raw.githubusercontent.com/olehj/disklocation/devel/disklocation-devel.plg",
+        "Support": "https://forums.unraid.net/topic/77302-plugin-disk-location/"
+    },
+    "4164": {
+        "PluginURL": "https://raw.githubusercontent.com/olehj/disklocation/master/disklocation-master.plg",
+        "Support": "https://forums.unraid.net/topic/77302-plugin-disk-location/"
+    },
+    "4167": {
+        "PluginURL": "https://github.com/omgapuppy/unraid-ugreen-idx6011-led-fan/releases/latest/download/unraid-ugreen-idx6011-led-fan.plg",
+        "Support": "https://github.com/omgapuppy/unraid-ugreen-idx6011-led-fan/issues"
+    },
+    "4186": {
+        "PluginURL": "https://raw.githubusercontent.com/pacnpal/wireguard-watchdog/main/plugin/wg-watchdog.plg",
+        "Support": "https://forums.unraid.net/topic/198468-plugin-wireguard-watchdog/"
+    },
+    "4227": {
+        "PluginURL": "https://raw.githubusercontent.com/phyzical/docker.labelInjector/main/docker.labelInjector.plg",
+        "Support": "https://github.com/phyzical/docker.labelInjector"
+    },
+    "4228": {
+        "PluginURL": "https://raw.githubusercontent.com/phyzical/docker.versions/main/docker.versions.plg",
+        "Support": "https://github.com/phyzical/docker.versions"
+    },
+    "4247": {
+        "PluginURL": "https://raw.githubusercontent.com/quadcom/Staxx/main/staxx.plg",
+        "Support": "https://staxxfb.quadcom.ca/"
+    },
+    "4270": {
+        "PluginURL": "https://raw.githubusercontent.com/racoutlaw/corsair-psu-center/main/corsairpsucenter.plg",
+        "Support": "https://forums.unraid.net/topic/200056-plugin-corsair-psu-center-icue-style-dashboard-and-fan-control-for-corsair-hxirmi-psus/"
+    },
+    "4271": {
+        "PluginURL": "https://raw.githubusercontent.com/rafzzzzzz/unraid-theme-studio/main/theme.studio.plg",
+        "Support": "https://github.com/rafzzzzzz/unraid-theme-studio/issues"
+    },
+    "4287": {
+        "PluginURL": "https://raw.githubusercontent.com/rezo552/unraid-ltfs/main/unraid-ltfs.plg",
+        "Support": "https://forums.unraid.net/topic/98167-lto-tape-experience/"
+    },
+    "4301": {
+        "PluginURL": "https://raw.githubusercontent.com/rizowski/unraid-docker-folders/main/unraid-docker-folders-modern.plg",
+        "Support": "https://github.com/rizowski/unraid-docker-folders/issues"
+    },
+    "4302": {
+        "PluginURL": "https://raw.githubusercontent.com/rka/unraid-storage-history/main/storage-history.plg",
+        "Support": "https://github.com/rka/unraid-storage-history/issues"
+    },
+    "4313": {
+        "PluginURL": "https://raw.githubusercontent.com/rogleete/backblaze64-unraid-dash-monitor/main/backblaze64-monitor.plg",
+        "Support": "https://forums.unraid.net/topic/200227-plugin-backblaze64-monitor/"
+    },
+    "4346": {
+        "PluginURL": "https://raw.githubusercontent.com/routecore/raidman-plugin/main/raidman.plg",
+        "Support": "https://github.com/routecore/raidman-plugin/issues"
+    },
+    "4358": {
+        "PluginURL": "https://raw.githubusercontent.com/rtho782/unmotion/plugin-stable/unmotion.plg",
+        "Support": "https://github.com/rtho782/unmotion/issues"
+    },
+    "4363": {
+        "PluginURL": "https://github.com/sasa-fajkovic/unraid-rsync/releases/latest/download/unraid.rsync.plg",
+        "Support": "https://forums.unraid.net/topic/199541-plugin-unraid-rsync-multi-job-rsync-backup-scheduler/"
+    },
+    "4378": {
+        "PluginURL": "https://github.com/scoltzero/msf/releases/latest/download/msf.plg",
+        "Support": "https://forums.unraid.net/topic/200222-plugin-msf-mosdns-and-mihomo-management/"
+    },
+    "4560": {
+        "PluginURL": "https://raw.githubusercontent.com/silkyclouds/unraid-disk-talkers/main/disk.talkers.plg",
+        "Support": "https://forums.unraid.net/topic/198305-plugin-disk-talkers/"
+    },
+    "4658": {
+        "PluginURL": "https://raw.githubusercontent.com/strike84/unraid-disk.space.management/refs/heads/main/DiskSpaceManagement.plg",
+        "Support": "https://forums.unraid.net/topic/191758-plugin-disk-space-management-mainly-for-those-who-use-the-split-level-feature-in-unraid-coming-soon-to-ca/"
+    },
+    "4679": {
+        "PluginURL": "https://raw.githubusercontent.com/tabilzad/unraid-docker-batch-update/main/plugin/docker.batch.update.plg",
+        "Support": "https://github.com/tabilzad/unraid-docker-batch-update/issues"
+    },
+    "4697": {
+        "PluginURL": "https://raw.githubusercontent.com/tess1o/geopulse-unraid/main/geopulse-compose.plg",
+        "Support": "https://github.com/tess1o/geopulse/issues"
+    },
+    "4764": {
+        "PluginURL": "https://raw.githubusercontent.com/trulow/Screen-for-Unraid/main/plugin/Screen-for-Unraid.plg",
+        "Support": "https://forums.unraid.net/topic/168065-plugin-screen-for-terminal-unraid/"
+    },
+    "4794": {
+        "PluginURL": "https://github.com/unraid/45Homelab/releases/latest/download/45d-drivemap.plg",
+        "Support": "https://github.com/unraid/45d-drivemap/issues"
+    },
+    "4795": {
+        "PluginURL": "https://stable.dl.unraid.net/unraid-api/dynamix.unraid.net.plg",
+        "Support": "https://forums.unraid.net/forum/94-support/"
+    },
+    "4796": {
+        "PluginURL": "https://github.com/unraid/unraid-coral-driver/raw/master/coral-driver.plg",
+        "Support": "https://forums.unraid.net/topic/98064-support-blakeblackshear-frigate/"
+    },
+    "4797": {
+        "PluginURL": "https://github.com/unraid/unraid-dvb-driver/raw/master/dvb-driver.plg",
+        "Support": "https://forums.unraid.net/topic/99027-plugin-dvb-driver/"
+    },
+    "4798": {
+        "PluginURL": "https://github.com/unraid/unraid-nvidia-driver/raw/master/nvidia-driver.plg",
+        "Support": "https://forums.unraid.net/topic/98978-plugin-nvidia-driver/"
+    },
+    "4799": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/docker.categorize/master/plugins/docker.categorize.plg",
+        "Support": "https://forums.unraid.net/topic/38431-plug-in-application-template-categorizer/"
+    },
+    "4800": {
+        "PluginURL": "https://github.com/unraid/apprise-plugin/releases/latest/download/apprise.plg",
+        "Support": "https://github.com/unraid/apprise-plugin/issues"
+    },
+    "4801": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/cache_dirs/master/dlandon.cache.dirs.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=36543.0"
+    },
+    "4802": {
+        "PluginURL": "https://github.com/unraid/ci-runner-farm/releases/download/nightly/ci-runner-farm-nightly.plg",
+        "Support": "https://github.com/unraid/ci-runner-farm/issues"
+    },
+    "4803": {
+        "PluginURL": "https://github.com/unraid/ci-runner-farm/releases/latest/download/ci-runner-farm.plg",
+        "Support": "https://github.com/unraid/ci-runner-farm/issues"
+    },
+    "4804": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/community.applications/master/plugins/community.applications.plg",
+        "Support": "https://forums.unraid.net/topic/38582-plug-in-community-applications"
+    },
+    "4805": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/fix.common.problems/master/plugins/fix.common.problems.plg",
+        "Support": "https://forums.unraid.net/topic/47266-plugin-ca-fix-common-problems/"
+    },
+    "4806": {
+        "PluginURL": "https://github.com/unraid/unraid-openrgb/releases/latest/download/openrgb.plg",
+        "Support": "https://github.com/unraid/unraid-openrgb/issues"
+    },
+    "4807": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/recycle.bin/master/recycle.bin.plg",
+        "Support": "https://forums.unraid.net/topic/41044-recycle-bin-vfs-recycle-for-smb-shares/"
+    },
+    "4808": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/unraid-tailscale/preview/plugin/tailscale-preview.plg",
+        "Support": "https://forums.unraid.net/topic/136889-plugin-tailscale/"
+    },
+    "4809": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/unraid-tailscale/main/plugin/tailscale.plg",
+        "Support": "https://forums.unraid.net/topic/136889-plugin-tailscale/"
+    },
+    "4810": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/tips.and.tweaks/master/tips.and.tweaks.plg",
+        "Support": "https://forums.unraid.net/topic/47527-tips-and-tweaks-plugin-to-possibly-improve-performance-of-unraid-and-vms/?tab=comments#comment-468361"
+    },
+    "4811": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/unassigned.devices/master/unassigned.devices-plus.plg",
+        "Support": "https://forums.unraid.net/topic/92462-unassigned-devices-managing-disk-drives-and-remote-shares-outside-of-the-unraid-array/"
+    },
+    "4812": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/unassigned.devices/master/unassigned.devices.preclear.plg",
+        "Support": "https://forums.unraid.net/topic/120567-unassigned-devices-preclear-a-utility-to-preclear-disks-before-adding-them-to-the-array/"
+    },
+    "4813": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/unassigned.devices/master/unassigned.devices.plg",
+        "Support": "https://forums.unraid.net/topic/92462-unassigned-devices-managing-disk-drives-and-remote-shares-outside-of-the-unraid-array/"
+    },
+    "4814": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/unraid.patch/main/plugins/unraid.patch.plg",
+        "Support": "https://forums.unraid.net/topic/185560-unraid-patch-plugin/"
+    },
+    "4815": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/dynamix/master/unRAIDv6/dynamix.active.streams.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=36543.0"
+    },
+    "4816": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/dynamix/master/unRAIDv6/dynamix.cache.dirs.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=36543.0"
+    },
+    "4817": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/dynamix/master/unRAIDv6/dynamix.date.time.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=36543.0"
+    },
+    "4818": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/dynamix/master/unRAIDv6/dynamix.day.night.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=36543.0"
+    },
+    "4819": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/dynamix/master/unRAIDv6/dynamix.factory.reset.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=36543.0"
+    },
+    "4820": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/dynamix/master/unRAIDv6/dynamix.file.integrity.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=44989.0"
+    },
+    "4821": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/dynamix/master/unRAIDv6/dynamix.file.manager.plg",
+        "Support": "https://forums.unraid.net/topic/120982-dynamix-file-manager/"
+    },
+    "4822": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/dynamix/master/unRAIDv6/dynamix.local.master.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=36543.0"
+    },
+    "4823": {
+        "PluginURL": "https://raw.github.com/unraid/dynamix/master/unRAIDv6/dynamix.password.validator.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=36543.0"
+    },
+    "4824": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/dynamix/master/unRAIDv6/dynamix.s3.sleep.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=36543.0"
+    },
+    "4825": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/dynamix/master/unRAIDv6/dynamix.safe.mode.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=36543.0"
+    },
+    "4826": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/dynamix/master/unRAIDv6/dynamix.schedules.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=36543.0"
+    },
+    "4827": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/dynamix/master/unRAIDv6/dynamix.scsi.devices.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=36543.0"
+    },
+    "4828": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/dynamix/master/unRAIDv6/dynamix.share.floor.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=36543.0"
+    },
+    "4829": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/dynamix/master/unRAIDv6/dynamix.ssd.trim.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=36543.0"
+    },
+    "4830": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/dynamix/master/unRAIDv6/dynamix.stop.shell.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=36543.0"
+    },
+    "4831": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/dynamix/master/unRAIDv6/dynamix.system.autofan.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=36543.0"
+    },
+    "4832": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/dynamix/master/unRAIDv6/dynamix.system.buttons.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=36543.0"
+    },
+    "4833": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/dynamix/master/unRAIDv6/dynamix.system.info.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=36543.0"
+    },
+    "4834": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/dynamix/master/unRAIDv6/dynamix.system.stats.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=36543.0"
+    },
+    "4835": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/dynamix/master/unRAIDv6/dynamix.system.temp.plg",
+        "Support": "http://forums.unraid.net/index.php?topic=36543.0"
+    },
+    "4836": {
+        "PluginURL": "https://raw.githubusercontent.com/unraid/dynamix/master/unRAIDv6/dynamix.wireguard.plg",
+        "Support": "https://forums.unraid.net/topic/84229-dynamix-wireguard-vpn/?tab=comments#comment-780291"
+    },
+    "4864": {
+        "PluginURL": "https://raw.githubusercontent.com/vcolombo/docktail-unraid/main/plugin/docktail.plg",
+        "Support": "https://github.com/vcolombo/docktail-unraid/issues"
+    },
+    "4916": {
+        "PluginURL": "https://raw.githubusercontent.com/wandercone/HakoDeploy/main/plugin/hakodeploy.plg",
+        "Support": "https://forums.unraid.net/topic/197930-plugin-hakodeploy/"
+    },
+    "4917": {
+        "PluginURL": "https://raw.githubusercontent.com/wandercone/HakoMonitor/main/plugin/hakomonitor.plg",
+        "Support": "https://forums.unraid.net/topic/198214-plugin-hakomonitor/"
+    },
+    "4918": {
+        "PluginURL": "https://raw.githubusercontent.com/wandercone/Updater/main/plugin/updater.plg",
+        "Support": "https://github.com/wandercone/Updater/issues"
+    },
+    "4945": {
+        "PluginURL": "https://raw.githubusercontent.com/xO-ox-ai/dynamix.file.recycle/main/dynamix.file.recycle.plg",
+        "Support": "https://github.com/xO-ox-ai/dynamix.file.recycle/issues"
+    },
+    "4946": {
+        "PluginURL": "https://raw.githubusercontent.com/xO-ox-ai/unraid-usb-guardian/main/usb.guardian.plg",
+        "Support": "https://forums.unraid.net/topic/199897-plugin-usb-guardian-safe-usb-eject-for-unraid/"
+    },
+    "4987": {
+        "PluginURL": "https://raw.githubusercontent.com/zhtengw/unraid-i915-sriov/master/i915-sriov.plg",
+        "Support": "https://forums.unraid.net/topic/136621-unraid-kernel-with-igpu-sr-iov-support/"
+    },
+    "5005": {
+        "PluginURL": "https://raw.githubusercontent.com/Onyxdigital-dev/ThemeUI/master/themeui.plg",
+        "Support": "https://github.com/Onyxdigital-dev/ThemeUI"
+    }
+}

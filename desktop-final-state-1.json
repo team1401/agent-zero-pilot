@@ -1,0 +1,100 @@
+{
+  "ok": true,
+  "context_id": "default",
+  "display": ":120",
+  "profile_dir": "/a0/usr/plugins/_desktop/profiles/agent-zero-desktop",
+  "size": {
+    "width": 1440,
+    "height": 900
+  },
+  "pointer": {
+    "x": 960,
+    "y": 540,
+    "screen": 0,
+    "window": 12582956
+  },
+  "active_window": null,
+  "windows": [
+    {
+      "id": "8388658",
+      "title": "Xfwm4",
+      "class": "Xfwm4",
+      "name": "xfwm4",
+      "pid": 809,
+      "geometry": {
+        "x": -1000,
+        "y": -1000,
+        "width": 5,
+        "height": 5
+      }
+    },
+    {
+      "id": "12582956",
+      "title": "Desktop",
+      "class": "Xfdesktop",
+      "name": "xfdesktop",
+      "pid": 919,
+      "geometry": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "id": "23068673",
+      "title": "LibreOffice",
+      "class": "",
+      "name": "",
+      "pid": 0,
+      "geometry": {
+        "x": 398,
+        "y": 350,
+        "width": 644,
+        "height": 199
+      }
+    },
+    {
+      "id": "14680067",
+      "title": "xfce4-panel",
+      "class": "Xfce4-panel",
+      "name": "xfce4-panel",
+      "pid": 906,
+      "geometry": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 25
+      }
+    },
+    {
+      "id": "16777219",
+      "title": "wrapper-2.0",
+      "class": "Wrapper-2.0",
+      "name": "wrapper-2.0",
+      "pid": 941,
+      "geometry": {
+        "x": 1341,
+        "y": 0,
+        "width": 1,
+        "height": 24
+      }
+    }
+  ],
+  "screenshot": {
+    "ok": false,
+    "path": "",
+    "format": "",
+    "captured_at": "",
+    "recent": false
+  },
+  "capabilities": {
+    "xdotool": "/usr/bin/xdotool",
+    "xrandr": "/usr/bin/xrandr",
+    "xwininfo": "/usr/bin/xwininfo",
+    "xprop": "/usr/bin/xprop",
+    "xwd": "/usr/bin/xwd",
+    "xclip": "/usr/bin/xclip"
+  },
+  "errors": []
+}

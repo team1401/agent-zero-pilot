@@ -1,0 +1,38 @@
+[
+  {
+    "instance": 1,
+    "context": "PYc4jWNp",
+    "idle": true,
+    "file_marker": "humanhandoffonefinal",
+    "restored_browser_tool_state": {
+      "id": 1,
+      "context_id": "PYc4jWNp",
+      "currentUrl": "https://example.com/",
+      "title": "Example Domain",
+      "canGoBack": true,
+      "canGoForward": false,
+      "loading": false,
+      "zoom": 100,
+      "zoom_available": true
+    },
+    "desktop_available": true
+  },
+  {
+    "instance": 2,
+    "context": "yKaGuygS",
+    "idle": true,
+    "file_marker": "humanhandofftwo",
+    "restored_browser_tool_state": {
+      "id": 1,
+      "context_id": "yKaGuygS",
+      "currentUrl": "https://example.com/",
+      "title": "Example Domain",
+      "canGoBack": true,
+      "canGoForward": false,
+      "loading": false,
+      "zoom": 100,
+      "zoom_available": true
+    },
+    "desktop_available": true
+  }
+]

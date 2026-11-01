@@ -1,0 +1,37 @@
+{
+  "ok": true,
+  "session_id": "agent-zero-desktop",
+  "desktop_session_id": "agent-zero-desktop",
+  "file_id": "system-desktop",
+  "title": "Desktop",
+  "extension": "desktop",
+  "path": "/a0/usr/workdir/documents",
+  "text": "",
+  "document": {
+    "file_id": "system-desktop",
+    "path": "/a0/usr/workdir/documents",
+    "basename": "Desktop",
+    "title": "Desktop",
+    "extension": "desktop",
+    "size": 0,
+    "version": 0
+  },
+  "version": 0,
+  "desktop": {
+    "available": true,
+    "session_id": "agent-zero-desktop",
+    "file_id": "system-desktop",
+    "extension": "desktop",
+    "title": "Desktop",
+    "path": "/a0/usr/workdir/documents",
+    "url": "/desktop/session/agent-zero-desktop/index.html?path=%2Fdesktop%2Fsession%2Fagent-zero-desktop%2F&title=Desktop&quality=85&speed=80&sharing=true&clipboard=true&clipboard_direction=both&clipboard_poll=true&clipboard_preferred_format=text%2Fplain&printing=true&file_transfer=true&sound=false&offscreen=true&floating_menu=false&xpramenu=false&encoding=jpeg",
+    "token": "agent-zero-desktop",
+    "display": ":120",
+    "desktop_path": "/desktop/session",
+    "width": 1440,
+    "height": 900,
+    "started_at": 1792598200.9153492
+  },
+  "store_session_id": "",
+  "mode": "desktop"
+}

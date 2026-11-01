@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Container version="2">
+  <Name>agent-zero-2</Name>
+  <Repository>agent0ai/agent-zero:latest</Repository>
+  <Registry>https://hub.docker.com/r/agent0ai/agent-zero</Registry>
+  <DonateText>Please consider supporting this project with a donation.[br]</DonateText>
+  <DonateLink>https://github.com/sponsors/frdel</DonateLink>
+  <Network>bridge</Network>
+  <Privileged>false</Privileged>
+  <Support>https://github.com/agent0ai/agent-zero/issues</Support>
+  <Project>https://agent-zero.ai/</Project>
+  <Overview>Two-instance local-only Agent Zero pilot; CA Selfhosters derived. Authentication in protected persistent usr/.env. No GPU passthrough or host access.</Overview>
+  <Beta>True</Beta>
+  <Category>AI: Productivity:</Category>
+  <WebUI>http://100.108.186.69:50081</WebUI>
+  <ExtraParams>--memory=8g --cpus=4 --shm-size=1g -p 100.108.186.69:50081:80 --entrypoint=/bin/sh</ExtraParams>
+  <PostArgs>-c "umask 077; exec /exe/initialize.sh main"</PostArgs>
+  <TemplateURL>https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/agent_zero.xml</TemplateURL>
+  <Icon>https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/agent-zero.png</Icon>
+  <Screenshot>https://raw.githubusercontent.com/frdel/agent-zero/main/docs/res/ui-screen-2.png</Screenshot>
+  <Requires />
+  <Config Name="Persistent user data" Target="/a0/usr" Default="/mnt/fastssd/AppData/agent-zero-2/usr" Mode="rw" Type="Path" Display="always" Required="true" Mask="false">/mnt/fastssd/AppData/agent-zero-2/usr</Config><TailscaleEnabled /><Config Name="Persistent browser profile" Target="/a0/tmp/browser" Default="/mnt/fastssd/AppData/agent-zero-2/browser" Mode="rw" Type="Path" Display="always" Required="true" Mask="false">/mnt/fastssd/AppData/agent-zero-2/browser</Config><Config Name="HF_HUB_OFFLINE" Target="HF_HUB_OFFLINE" Default="1" Type="Variable" Display="advanced" Required="true" Mask="false">1</Config><Config Name="TRANSFORMERS_OFFLINE" Target="TRANSFORMERS_OFFLINE" Default="1" Type="Variable" Display="advanced" Required="true" Mask="false">1</Config></Container>

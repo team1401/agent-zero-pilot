@@ -1,0 +1,153 @@
+{
+    "count": 5006,
+    "matches": {
+        "4399": {
+            "Name": "agent-zero",
+            "Repository": "agent0ai\/agent-zero:latest",
+            "Registry": "https:\/\/hub.docker.com\/r\/agent0ai\/agent-zero",
+            "Network": "bridge",
+            "Privileged": "false",
+            "Support": "https:\/\/github.com\/agent0ai\/agent-zero\/issues",
+            "Project": "https:\/\/agent-zero.ai\/",
+            "Overview": "[b]Agent-Zero[\/b] is the easiest way to create and deploy autonomous AI agents.\n[b]Configuration note:[\/b] The \"--BRANCH=main\" post argument will break installation if you are not using Tailscale- create it as a standard variable in that case, and remove the post-arg.\nIt's a powerful platform designed to simplify the development and management of AI agents by providing a user-friendly interface and robust backend capabilities.\n[br][br]\nSimply provide your API key from a supported Large Language Model (LLM) provider (like OpenAI, Anthropic, or Cohere), describe the agent you want to build, and Agent-Zero will generate, test, and deploy it for you.\n[br][br]\n[b]FIRST RUN SETUP:[\/b] After deploying this container, access the web interface and configure your LLM provider during the initial setup. You must provide your own API key or Ollama instance URL for at least one LLM provider for the application to be useful. All configuration is done through the web interface on first run.\n[br][br]\n[b]GPU Support:[\/b] This template will pass all available Nvidia GPUs to the container.\nThis requires the [b]Nvidia-Plugin[\/b] to be installed from Community Applications.\n[br][b]BRANCH[\/b] parameter is in post-arguments, because it needs to be passed after the tailscale package completes, or the container will fail to start.[\/br]\n[b]Future-Proofing Note:[\/b] The GPU passthrough setting is included to future-proof the container for when the developer begins releasing CUDA-enabled images directly to Docker Hub. If you do not require GPU functionality, feel free to remove the '--runtime=nvidia' parameter from the 'Extra Parameters' field.",
+            "Beta": "true",
+            "WebUI": "http:\/\/[IP]:[PORT:80]",
+            "ExtraParams": "--runtime=nvidia",
+            "PostArgs": "--BRANCH=main",
+            "TemplateURL": "https:\/\/raw.githubusercontent.com\/selfhosters\/unRAID-CA-templates\/master\/templates\/agent_zero.xml",
+            "Icon": "https:\/\/raw.githubusercontent.com\/selfhosters\/unRAID-CA-templates\/master\/templates\/img\/agent-zero.png",
+            "Screenshot": "https:\/\/raw.githubusercontent.com\/frdel\/agent-zero\/main\/docs\/res\/ui-screen-2.png",
+            "Requires": "https:\/\/forums.unraid.net\/topic\/98978-plugin-nvidia-driver\/",
+            "Config": [
+                {
+                    "@attributes": {
+                        "Name": "Web UI Port",
+                        "Target": "80",
+                        "Default": "50080",
+                        "Mode": "tcp",
+                        "Description": "The port to access the Agent-Zero web interface. The container listens on port 80, which is mapped to the host port you specify here.",
+                        "Type": "Port",
+                        "Display": "always",
+                        "Required": "true",
+                        "Mask": "false"
+                    },
+                    "value": "50080"
+                },
+                {
+                    "@attributes": {
+                        "Name": "Appdata Path",
+                        "Target": "\/a0",
+                        "Default": "\/mnt\/user\/appdata\/agent-zero",
+                        "Mode": "rw",
+                        "Description": "Container path for storing application data, agent configurations, and logs.",
+                        "Type": "Path",
+                        "Display": "always",
+                        "Required": "true",
+                        "Mask": "false"
+                    },
+                    "value": "\/mnt\/user\/appdata\/agent-zero"
+                },
+                {
+                    "@attributes": {
+                        "Name": "NVIDIA Visible Devices",
+                        "Target": "NVIDIA_VISIBLE_DEVICES",
+                        "Default": "all",
+                        "Description": "The UUID of the NVIDIA GPU to pass to the container. 'all' will pass all available GPUs.",
+                        "Type": "Variable",
+                        "Display": "advanced",
+                        "Required": "false",
+                        "Mask": "false"
+                    },
+                    "value": "all"
+                },
+                {
+                    "@attributes": {
+                        "Name": "Ollama Base URL",
+                        "Target": "OLLAMA_BASE_URL",
+                        "Default": "http:\/\/localhost:11434",
+                        "Description": "The base URL of an Ollama instance that can be used as a fallback if no other LLM providers are configured.",
+                        "Type": "Variable",
+                        "Display": "advanced",
+                        "Required": "false",
+                        "Mask": "false"
+                    },
+                    "value": "http:\/\/localhost:11434"
+                },
+                {
+                    "@attributes": {
+                        "Name": "LM Studio Base URL",
+                        "Target": "LM_STUDIO_BASE_URL",
+                        "Default": "http:\/\/localhost:1234\/v1",
+                        "Description": "The base URL of an LM Studio instance that can be used as a fallback if no other LLM providers are configured.",
+                        "Type": "Variable",
+                        "Display": "advanced",
+                        "Required": "false",
+                        "Mask": "false"
+                    },
+                    "value": "http:\/\/localhost:1234\/v1"
+                }
+            ],
+            "TemplatePath": "\/tmp\/GitHub\/AppFeed\/templates\/agent_zero.xml",
+            "Repo": "Selfhosters Unraid Discord Repository",
+            "RepoShort": "Selfhosters",
+            "CategoryList": [
+                "AI",
+                "Productivity"
+            ],
+            "stars": 50,
+            "downloads": 1284352,
+            "downloadtrend": [
+                186563,
+                255912,
+                334422,
+                357444,
+                639146,
+                951905,
+                1284352
+            ],
+            "trending": 25.884,
+            "trends": [
+                32.203,
+                27.099,
+                23.476,
+                6.441,
+                44.075,
+                32.856,
+                25.884
+            ],
+            "trendsDate": [
+                1774703371,
+                1777317335,
+                1780603496,
+                1783209834,
+                1785926957,
+                1788523586,
+                1791198847
+            ],
+            "FirstSeen": 1753902647,
+            "LastUpdate": 1790189202,
+            "LastUpdateScan": 1791198847,
+            "topTrending": -6.319000000000003,
+            "topPerforming": 25.884,
+            "Category": "AI: Productivity:",
+            "ID": 4399,
+            "Displayable": true,
+            "Author": "agent0ai",
+            "DockerHubName": "agent-zero",
+            "RepoName": "Selfhosters Unraid Discord Repository",
+            "SortAuthor": "agent0ai",
+            "SortName": "agent zero",
+            "random": 1229147509,
+            "Blacklist": false,
+            "MinVer": "6.0",
+            "Path": "\/tmp\/community.applications\/tempFiles\/templates-community-apps\/SelfhostersUnraidDiscordRepository\/agent0ai-agentzero-latest.xml",
+            "Date": null,
+            "BrandNewApp": true,
+            "Deprecated": false,
+            "trendDelta": -6.319,
+            "trendAverage": 27.4334,
+            "Compatible": true,
+            "ModeratorComment": null
+        }
+    }
+}
