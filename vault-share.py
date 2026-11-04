@@ -21,6 +21,6 @@ for handle in p['handles']:
 c=sqlite3.connect('/home/helix/.hermes-minimal/state.db')
 m=re.fullmatch(r'The password for that is (\S+)\s*',c.execute("select content from messages where id=104372 and role='user'").fetchone()[0],re.I);assert m
 handles=[json.loads(l) for l in (P/'vault-handles.jsonl').read_text().splitlines() if l.strip() and json.loads(l).get('stage')=='created-verified']
-r=subprocess.run(['ssh','helix@100.117.95.108','/opt/homebrew/bin/python3 -c '+shlex.quote(remote)],input=json.dumps({'keychain_password':m[1],'handles':handles}),capture_output=True,text=True,timeout=240)
+r=subprocess.run(['ssh','helix@<mac-host>','/opt/homebrew/bin/python3 -c '+shlex.quote(remote)],input=json.dumps({'keychain_password':m[1],'handles':handles}),capture_output=True,text=True,timeout=240)
 print(r.stdout);(P/'vault-shared-handles.jsonl').write_text(r.stdout)
 raise SystemExit(r.returncode)

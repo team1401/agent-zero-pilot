@@ -32,7 +32,7 @@ for item in p.get('items',[]):
  assert v['login']['password']==item['password'] and v['login']['username']==item['username']
  print(json.dumps({'stage':'created-verified','name':item['name'],'id':ident}))
 '''
-r=subprocess.run(['ssh','-o','BatchMode=yes','helix@100.117.95.108', '/opt/homebrew/bin/python3 -c '+__import__('shlex').quote(remote)],input=json.dumps(payload),capture_output=True,text=True,timeout=240)
+r=subprocess.run(['ssh','-o','BatchMode=yes','helix@<mac-host>', '/opt/homebrew/bin/python3 -c '+__import__('shlex').quote(remote)],input=json.dumps(payload),capture_output=True,text=True,timeout=240)
 print(r.stdout)
 if r.returncode: print('Remote credential provisioning failed; exit',r.returncode)
 raise SystemExit(r.returncode)

@@ -2,7 +2,7 @@
 
 ## Verified completion update — 2026-10-21
 
-Both pilots are live: http://100.108.186.69:50080 and http://100.108.186.69:50081. Native CA-derived Agent Zero v2.14 containers, Tailscale-only bindings, application authentication, separate persistent usr and Chromium profiles. Shared Bitwarden organization Airstream AI / collection Helix holds `Strix Agent Zero 1` and `Strix Agent Zero 2`; no passwords belong in Obsidian.
+Both pilots are live: http://<agent-zero-host>:50080 and http://<agent-zero-host>:50081. Native CA-derived Agent Zero v2.14 containers, Tailscale-only bindings, application authentication, separate persistent usr and Chromium profiles. Shared Bitwarden organization Airstream AI / collection Helix holds `Strix Agent Zero 1` and `Strix Agent Zero 2`; no passwords belong in Obsidian.
 
 Main/utility inference uses existing local halogen-qwen3.8-flash-next on port8731. Bundled CPU embeddings verified offline. Real file/tool/browser tasks, two live XFCE desktop keyboard/pointer edits while active tasks were paused, resumed same-agent readback, independent activity while the other instance paused, native recreation persistence, and one bounded authenticated A2A exchange passed.
 

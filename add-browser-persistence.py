@@ -13,8 +13,8 @@ for i in (1,2):
  root.find('ExtraParams').text+=' --entrypoint=/bin/sh'
  root.find('PostArgs').text='-c "umask 077; exec /exe/initialize.sh main"'
  ET.ElementTree(root).write(path,encoding='utf-8',xml_declaration=True)
- subprocess.run(['ssh','root@100.108.186.69',f'docker stop {name} && test ! -e /mnt/fastssd/AppData/{name}/browser && docker cp {name}:/a0/tmp/browser /mnt/fastssd/AppData/{name}/browser && chmod 700 /mnt/fastssd/AppData/{name}/browser'],check=True)
- subprocess.run(['scp','-q',str(path),'root@100.108.186.69:/boot/config/plugins/dockerMan/templates-user/'],check=True)
-subprocess.run(['scp','-q',str(P/'native-recreate.php'),'root@100.108.186.69:/mnt/fastssd/system/a0-native-recreate.php'],check=True)
-r=subprocess.run(['ssh','root@100.108.186.69','php /mnt/fastssd/system/a0-native-recreate.php && docker start agent-zero-1 agent-zero-2'],capture_output=True,text=True,check=True)
+ subprocess.run(['ssh','root@<agent-zero-host>',f'docker stop {name} && test ! -e /mnt/fastssd/AppData/{name}/browser && docker cp {name}:/a0/tmp/browser /mnt/fastssd/AppData/{name}/browser && chmod 700 /mnt/fastssd/AppData/{name}/browser'],check=True)
+ subprocess.run(['scp','-q',str(path),'root@<agent-zero-host>:/boot/config/plugins/dockerMan/templates-user/'],check=True)
+subprocess.run(['scp','-q',str(P/'native-recreate.php'),'root@<agent-zero-host>:/mnt/fastssd/system/a0-native-recreate.php'],check=True)
+r=subprocess.run(['ssh','root@<agent-zero-host>','php /mnt/fastssd/system/a0-native-recreate.php && docker start agent-zero-1 agent-zero-2'],capture_output=True,text=True,check=True)
 print(r.stdout[-2000:]);print('Both pilots recreated through native Docker Manager with isolated browser persistence.')

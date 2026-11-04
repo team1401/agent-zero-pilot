@@ -45,7 +45,7 @@
       "ports": {
         "80/tcp": [
           {
-            "HostIp": "100.108.186.69",
+            "HostIp": "<agent-zero-host>",
             "HostPort": "50080"
           }
         ]
@@ -57,7 +57,7 @@
         "io.buildah.version": "1.42.1",
         "net.unraid.docker.icon": "https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/agent-zero.png",
         "net.unraid.docker.managed": "dockerman",
-        "net.unraid.docker.webui": "http://100.108.186.69:50080",
+        "net.unraid.docker.webui": "http://<agent-zero-host>:50080",
         "org.opencontainers.image.authors": "Kali Developers <devel@kali.org>",
         "org.opencontainers.image.created": "2026-02-01T04:04:48Z",
         "org.opencontainers.image.description": "Official Kali Linux container image for kali-rolling",
@@ -99,7 +99,7 @@
       "ports": {
         "80/tcp": [
           {
-            "HostIp": "100.108.186.69",
+            "HostIp": "<agent-zero-host>",
             "HostPort": "50081"
           }
         ]
@@ -111,7 +111,7 @@
         "io.buildah.version": "1.42.1",
         "net.unraid.docker.icon": "https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/agent-zero.png",
         "net.unraid.docker.managed": "dockerman",
-        "net.unraid.docker.webui": "http://100.108.186.69:50081",
+        "net.unraid.docker.webui": "http://<agent-zero-host>:50081",
         "org.opencontainers.image.authors": "Kali Developers <devel@kali.org>",
         "org.opencontainers.image.created": "2026-02-01T04:04:48Z",
         "org.opencontainers.image.description": "Official Kali Linux container image for kali-rolling",

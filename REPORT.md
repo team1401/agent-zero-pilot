@@ -4,8 +4,8 @@ Verified 2026-10-21 on Strix. Both pilots are running, authenticated, native Unr
 
 ## Access and credentials
 
-- Instance 1: **http://100.108.186.69:50080** — `agent-zero-1`
-- Instance 2: **http://100.108.186.69:50081** — `agent-zero-2`
+- Instance 1: **http://<agent-zero-host>:50080** — `agent-zero-1`
+- Instance 2: **http://<agent-zero-host>:50081** — `agent-zero-2`
 - Access requires Tailscale and application login. Docker publishes only the Tailscale host IP, not 0.0.0.0, LAN IP, SSH, or desktop backend ports.
 - Shared Bitwarden organization **Airstream AI**, collection **Helix**:
   - `Strix Agent Zero 1`: `4534c9ae-e837-420c-9ad0-b4ea0101619a`
@@ -31,7 +31,7 @@ Verified 2026-10-21 on Strix. Both pilots are running, authenticated, native Unr
 Both main and utility presets use:
 
 - Provider adapter: `lm_studio` (OpenAI-compatible chat).
-- Endpoint: `http://100.108.186.69:8731/v1`.
+- Endpoint: `http://<agent-zero-host>:8731/v1`.
 - Model: **`halogen-qwen3.8-flash-next`**.
 - Context configured32768; output limit4096; temperature0.2; vision=false.
 - Embeddings: bundled **sentence-transformers/all-MiniLM-L6-v2**, CPU. Both actual Agent Zero wrappers generated finite **384-dimensional** vectors with Hugging Face and Transformers forced offline. Offline flags are now persistent template environment values.

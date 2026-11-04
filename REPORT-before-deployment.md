@@ -16,7 +16,7 @@
 
 ## Previous pre-maintenance report
 
-Verification date: 2026-10-21. Target: Strix Unraid, 100.108.186.69 (LAN 192.168.1.40).
+Verification date: 2026-10-21. Target: Strix Unraid, <agent-zero-host> (LAN 192.168.1.40).
 
 ## Outcome / decision needed
 
@@ -36,7 +36,7 @@ No Agent Zero container or native user template was installed. No service was st
 - Template provenance: https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/agent_zero.xml
 - Image: `agent0ai/agent-zero:latest`, registry-reported digest `sha256:b0c9763df7b8c4c5ddbdac9c101e8f84de8b7cdf9185203e446e2d7d8ebf2f1c`; compressed full_size 3145720871 bytes. Image download failed; no runnable version verified. GitHub latest release reported v2.14; that does NOT prove the Docker tag contains v2.14.
 - Inspected upstream source revision `ff2a5b9c9c4e490ba38dd7c313e779510bb2071a`, including installation, desktop, A2A, Docker entrypoint, model configuration, and auth source. No repository script executed.
-- Existing local model endpoint: `http://100.108.186.69:8731/v1`, model ID `halogen-qwen3.8-flash-next`. Actual chat completion returned `LOCAL_READY`. This verifies basic generation, NOT Agent Zero tool/browser/vision compatibility or concurrent-agent performance.
+- Existing local model endpoint: `http://<agent-zero-host>:8731/v1`, model ID `halogen-qwen3.8-flash-next`. Actual chat completion returned `LOCAL_READY`. This verifies basic generation, NOT Agent Zero tool/browser/vision compatibility or concurrent-agent performance.
 - No Ollama or LM Studio container observed. Existing Halogen serving container was not changed. No model downloaded.
 - Spark dev3 is online at 100.87.41.76; direct SSH was blocked by missing trusted host-key association. Did not bypass verification or change known_hosts; did not establish its current model inventory.
 - qBittorrent remains running; proton-vpn remains healthy. Native parity check remains active with `mdResyncCorr=0`; no parity operation changed.
@@ -44,7 +44,7 @@ No Agent Zero container or native user template was installed. No service was st
 ## Prepared deployment design (NOT installed)
 
 - Names: `agent-zero-1`, `agent-zero-2`, both derived from the actual CA template and deployed via native Docker Manager, retaining Repository/Registry/Support/Project/Icon/TemplateURL.
-- Proposed WebUI: `http://100.108.186.69:50080` and `http://100.108.186.69:50081`. Ports were free at preflight; recheck before installation. Bind Tailscale IP only by default, not 0.0.0.0 or public interfaces. LAN bindings, if desired, can be explicit to 192.168.1.40.
+- Proposed WebUI: `http://<agent-zero-host>:50080` and `http://<agent-zero-host>:50081`. Ports were free at preflight; recheck before installation. Bind Tailscale IP only by default, not 0.0.0.0 or public interfaces. LAN bindings, if desired, can be explicit to 192.168.1.40.
 - Isolated persistent mounts: `/mnt/fastssd/AppData/agent-zero-1/usr:/a0/usr` and `/mnt/fastssd/AppData/agent-zero-2/usr:/a0/usr`. Current official installation docs recommend `/a0/usr`; the CA template and compose example still mount all `/a0`.
 - Remove CA's optional NVIDIA runtime/device variable and Nvidia-plugin dependency: Strix does not need GPU passthrough for a remote/shared model API. Remove obsolete `--BRANCH=main` PostArgs; inspect actual pulled image startup contract before native creation.
 - No privileged mode, Docker socket, host-root mounts, host networking, public tunnel, GPU capabilities, or SSH port publication.
